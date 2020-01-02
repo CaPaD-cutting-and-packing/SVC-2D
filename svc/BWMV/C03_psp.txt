@@ -1,0 +1,16 @@
+
+Thu Feb  9 16:25:26 2012
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 nPType 1 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [Sub_RCPSP] nScaleW 0 vsp -0.8 0.5  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  [SVC_RCPSP] MaxTime 360 MaxIter 1e+100 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+1 20 40 186 1035176 2946008 127 361 8.1 187 187 186 186
+2 20 40 114 14 3499955 0 362 8.5 114 114 114 150
+3 20 40 195 2 3027534 0 361 10 195 195 195 165
+4 20 40 132 214738 3410910 22.7 361 5.6 135 132 132 156.75
+5 20 40 145 2020200 3600203 202 361 5 147 147 145 154.4
+6 20 40 199 43263 3197926 4.88 360 4.1 199 199 199 161.833
+7 20 40 142 118666 3265838 13.2 361 3.6 143 142 142 159
+8 20 40 139 6 2988517 0 360 7.7 139 139 139 156.5
+9 20 40 178 59007 2990164 7.26 360 5.3 178 178 178 158.889
+10 20 40 206 5 3343144 0 362 11 206 206 206 163.6
+11 40 40 231 422639 1386900 111 362 2.6 232 232 231 169.727

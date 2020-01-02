@@ -1,0 +1,2331 @@
+
+
+1 2 1 6.9 0.021 1000 2.5 0 0 1.289 0 0 
+2 4 1 10.4 0.043 1000 6.4 0 0 0 0 0 
+3 6 1 23 0.067 1000 1.1 0 0 0 0 0 
+4 8 1 24.6 0.102 1000 10 0 0 0.404 0 0 
+5 10 1 35.3 0.133 1000 4.4 0 0 0 0 0 
+
+
+5.5 20 10 61.5 0.226 10000 778.2 0 0 -2.14748e+06 0 0 
+15.5 40 10 122 0.437 10000 580.2 0 0 4.732 0 0 
+25.5 60 10 189 0.678 10000 251.2 0 0 2.389 0 0 
+35.5 80 10 262.8 0.978 10000 29.3 0 0 0.687 0 0 
+45.5 100 10 305.5 1.317 10000 173.7 0 0 1 0 0 
+
+
+5.5 20 10 61.6 1.332 10000 650.6 0 0 -2.14748e+06 0 0 
+15.5 40 10 122.1 4.018 10000 410.2 0 0 0.548 0 0 
+25.5 60 10 189.4 4.512 10000 382.8 0 0 0.626 0 0 
+
+
+Wed Sep 28 17:47:42 2005
+
+5.5 20 10 61.5 0.229 10000 227.3 0 0 -2.14748e+06 0 0 
+15.5 40 10 122 0.446 10000 479.1 0 0 4.536 0 0 
+25.5 60 10 189 0.696 10000 317.1 0 0 2.029 0 0 
+35.5 80 10 262.9 0.993 10000 29.3 0 0 0.645 0 0 
+45.5 100 10 305.6 1.346 10000 569.4 0 0 1.121 0 0 
+
+
+Wed Sep 28 17:48:55 2005
+
+5.5 20 10 61.5 0.228 10000 545.2 0 0 -2.14748e+06 0 0 
+15.5 40 10 122 0.435 10000 1095.9 0 0 6.159 0 0 
+25.5 60 10 189 0.682 10000 231.1 0 0 2.221 0 0 
+35.5 80 10 262.8 0.983 10000 417.2 0 0 1.442 0 0 
+45.5 100 10 305.2 1.31 10000 971.1 0 0 1.719 0 0 
+
+
+Wed Sep 28 17:50:39 2005
+
+5.5 20 10 61.6 0.218 10000 559.7 0 0 -2.14748e+06 0 0 
+15.5 40 10 122.1 0.433 10000 344.1 0 0 4.781 0 0 
+25.5 60 10 189 0.679 10000 374.1 0 0 2.485 0 0 
+35.5 80 10 262.8 0.978 10000 42.8 0 0 1.233 0 0 
+45.5 100 10 305.4 1.318 10000 436.3 0 0 1.739 0 0 
+
+
+Wed Sep 28 17:52:06 2005
+
+5.5 20 10 61.5 0.226 10000 752.8 0 0 -2.14748e+06 0 0 
+15.5 40 10 122.2 0.442 10000 951.6 0 0 4.733 0 0 
+25.5 60 10 188.9 0.688 10000 376.7 0 0 2.811 0 0 
+35.5 80 10 262.8 0.97 10000 49.4 0 0 1.137 0 0 
+45.5 100 10 305.3 1.323 10000 232.9 0 0 0.992 0 0 
+
+
+Wed Sep 28 17:57:21 2005
+
+5.5 20 10 61.5 0.227 10000 812.8 0 0 -2.14748e+06 0 0 
+15.5 40 10 122 0.436 10000 519.2 0 0 5.126 0 0 
+25.5 60 10 189.1 0.683 10000 921 0 0 3.82 0 0 
+35.5 80 10 262.9 0.975 10000 22.4 0 0 0.672 0 0 
+45.5 100 10 305.4 1.319 10000 1177.9 0 0 1.274 0 0 
+
+
+Wed Sep 28 18:01:18 2005
+
+5.5 20 10 61.5 0.226 10000 504.8 0 0.001 -2.14748e+06 0 0 
+15.5 40 10 122.1 0.43 10000 204.1 0 0 4.927 0 0 
+25.5 60 10 189 0.682 10000 1053.3 0 0 3.585 0 0 
+35.5 80 10 262.8 0.977 10000 69.1 0 0 1.181 0 0 
+45.5 100 10 305.4 1.313 10000 488.3 0 0 1.142 0 0 
+
+
+Wed Sep 28 18:03:21 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 
+[SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 correctionScheme 2 fReorderAfterEveryBlock 0 w_pow 1.8 
+
+5.5 20 10 61.5 0.222 10000 504.8 0 0 -2147477.713 0 0 
+15.5 40 10 122.1 0.434 10000 204.1 0 0 4.926 0 0 
+25.5 60 10 189 0.687 10000 1053.3 0 0 3.526 0 0 
+35.5 80 10 262.8 0.969 10000 69.1 0 0 1.199 0 0 
+45.5 100 10 305.4 1.317 10000 488.3 0 0 1.125 0 0 
+
+
+Wed Sep 28 18:05:49 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 correctionScheme 2 fReorderAfterEveryBlock 0 w_pow 2.1 
+5.5 20 10 61.5 0.228 10000 545.2 0 0 -2147475.756 0 0 
+15.5 40 10 122 0.438 10000 1095.9 0 0 6.186 0 0 
+25.5 60 10 189 0.679 10000 231.1 0 0 2.203 0 0 
+35.5 80 10 262.8 0.979 10000 417.2 0 0 1.447 0 0 
+45.5 100 10 305.2 1.307 10000 971.1 0 0 1.702 0 0 
+
+
+Wed Sep 28 18:10:22 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 0 MaxPerturb_RelVal 1e-06 correctionScheme 2 fReorderAfterEveryBlock 0 w_pow 2.1 
+5.5 20 10 61.7 0.236 10000 568.7 0 0 -2147476.02 0 0 
+15.5 40 10 124.8 0.463 10000 3373.4 0 0 3.651 0 0 
+25.5 60 10 192.8 0.735 10000 3705.1 0 0 3.756 0 0 
+35.5 80 10 268.1 1.033 10000 4290.7 0 0 2.385 0 0 
+45.5 100 10 316.5 1.417 10000 4694.3 0 0 1.653 0 0 
+
+
+C01 Thu Sep 29 12:45:18 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.222 10000 545.2 0 0 -2147475.606 0 0 
+15.5 40 10 122 0.431 10000 1095.9 0 0 6.204 0 0 
+25.5 60 10 189 0.673 10000 231.1 0 0 2.228 0 0 
+35.5 80 10 262.8 0.972 10000 417.2 0 0 1.449 0 0 
+45.5 100 10 305.2 1.298 10000 971.1 0 0 1.715 0 0 
+
+
+C01 Thu Sep 29 13:02:48 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.217 10000 545.2 0 0 -2147475.417 0 0 
+15.5 40 10 122 0.428 10000 1095.9 0 0 6.362 0 0 
+25.5 60 10 189 0.679 10000 231.1 0 0 2.241 0 0 
+35.5 80 10 262.8 0.975 10000 417.2 0 0 1.455 0 0 
+45.5 100 10 305.2 1.318 10000 971.1 0 0 1.699 0 0 
+
+
+C01 Thu Sep 29 13:05:23 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.01 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.222 10000 545.2 0 0 -2147475.58 0 0 
+15.5 40 10 122 0.433 10000 1095.9 0 0 6.227 0 0 
+25.5 60 10 189 0.679 10000 231.1 0 0 2.215 0 0 
+35.5 80 10 262.8 0.977 10000 417.2 0 0 1.478 0 0 
+45.5 100 10 305.2 1.31 10000 971.1 0 0 1.711 0 0 
+
+
+C01 Thu Sep 29 13:07:31 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.01 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 2.226 100000 545.2 0 0 -2147482.846 0 0 
+15.5 40 10 122 4.372 100000 1095.9 0 0.001 0.612 0 0 
+25.5 60 10 189 6.78 100000 231.1 0 0 0.22 0 0 
+35.5 80 10 262.8 9.719 100000 417.2 0 0 0.146 0 0 
+45.5 100 10 305.1 13.129 100000 3125.6 0 0 0.192 0 0 
+
+
+C01 Thu Sep 29 13:31:31 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 3 NIterSVC 20 MaxPerturb_RelVal 0.01 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.6 0.224 10000 663.4 0 0 -2147475.058 0 0 
+15.5 40 10 122.2 0.435 10000 297.9 0 0 4.453 0 0 
+25.5 60 10 189.2 0.691 10000 1301.6 0 0 4.969 0 0 
+35.5 80 10 262.8 0.979 10000 12.7 0 0 0.479 0 0 
+45.5 100 10 305.5 1.331 10000 3074.6 0 0 1.842 0 0 
+
+
+C01 Thu Sep 29 13:32:58 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 3 NIterSVC 100 MaxPerturb_RelVal 0.01 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.6 0.222 10000 391.6 0 0 -2147480.312 0 0 
+15.5 40 10 122 0.435 10000 443.4 0 0 4.602 0 0 
+25.5 60 10 189.2 0.686 10000 644.1 0 0 2.103 0 0 
+35.5 80 10 262.8 0.978 10000 13.7 0 0 0.494 0 0 
+45.5 100 10 305.6 1.305 10000 131 0 0 1.241 0 0 
+
+
+C01 Thu Sep 29 13:34:54 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 20 NIterSVC 20 MaxPerturb_RelVal 0.01 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.7 0.227 10000 606.7 0 0 -2147477.763 0 0 
+15.5 40 10 123.6 0.453 10000 123.5 0 0 4.027 0 0 
+25.5 60 10 189.6 0.715 10000 1538.5 0 0 4.086 0 0 
+35.5 80 10 262.9 1.001 10000 608.1 0 0 1.791 0 0 
+45.5 100 10 306.5 1.371 10000 1343.1 0 0 1.254 0 0 
+
+
+C01 Thu Sep 29 13:36:47 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 20 NIterSVC 200 MaxPerturb_RelVal 0.01 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.6 0.222 10000 916.3 0 0 -2147477.553 0 0 
+15.5 40 10 122 0.427 10000 634.9 0 0 5.257 0 0 
+25.5 60 10 189.2 0.681 10000 688 0 0 3.269 0 0 
+35.5 80 10 262.8 0.98 10000 46.3 0 0 0.798 0 0 
+45.5 100 10 305.2 1.323 10000 394.9 0 0 1.167 0 0 
+
+
+C01 Thu Sep 29 13:38:54 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 2 NIterSVC 200 MaxPerturb_RelVal 0.01 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.7 0.221 10000 1181.2 0 0 -2147473.652 0 0 
+15.5 40 10 122 0.434 10000 83 0 0 3.011 0 0 
+25.5 60 10 189.3 0.685 10000 340.8 0 0 1.982 0 0 
+35.5 80 10 263 0.969 10000 14.1 0 0 0.42 0 0 
+45.5 100 10 305.5 1.31 10000 945.7 0 0 1.583 0 0 
+
+
+C01 Thu Sep 29 13:40:07 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 8 NIterSVC 200 MaxPerturb_RelVal 0.01 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.223 10000 610.4 0 0 -2147475.94 0 0 
+15.5 40 10 122.2 0.432 10000 169.2 0 0 3.976 0 0 
+25.5 60 10 189.1 0.676 10000 440.6 0 0 3.051 0 0 
+35.5 80 10 262.8 0.972 10000 25.5 0 0 0.6 0 0 
+45.5 100 10 305.6 1.313 10000 821.7 0 0 2.023 0 0 
+
+
+C01 Thu Sep 29 13:41:49 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 13 NIterSVC 200 MaxPerturb_RelVal 0.01 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.224 10000 201.7 0 0 -2147478.556 0 0 
+15.5 40 10 122 0.433 10000 129.8 0 0 3.629 0 0 
+25.5 60 10 189.2 0.681 10000 414.4 0 0 2.05 0 0 
+35.5 80 10 262.7 0.974 10000 506.8 0 0 1.531 0 0 
+45.5 100 10 305.3 1.322 10000 362.5 0 0 1.555 0 0 
+
+
+C01 Thu Sep 29 13:43:13 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 8 NIterSVC 200 MaxPerturb_RelVal 0.0001 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.225 10000 610.4 0 0 -2147475.94 0 0 
+15.5 40 10 122.2 0.437 10000 169.2 0 0 3.86 0 0 
+25.5 60 10 189.1 0.685 10000 440.6 0 0 2.999 0 0 
+35.5 80 10 262.8 0.963 10000 25.5 0 0 0.613 0 0 
+45.5 100 10 305.6 1.315 10000 821.7 0 0 2.013 0 0 
+
+
+C01 Thu Sep 29 13:44:16 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 11 NIterSVC 200 MaxPerturb_RelVal 0.0001 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.223 10000 1083.1 0 0 -2147479.98 0 0 
+15.5 40 10 122.1 0.437 10000 100.7 0 0 4.042 0 0 
+25.5 60 10 188.9 0.676 10000 312.8 0 0 2.591 0 0 
+35.5 80 10 262.8 0.972 10000 28 0 0 0.686 0 0 
+45.5 100 10 305.5 1.312 10000 853.5 0 0 1.852 0 0 
+
+
+C01 Thu Sep 29 13:45:23 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.224 10000 545.2 0 0 -2147475.606 0 0 
+15.5 40 10 122 0.432 10000 1095.9 0 0 6.217 0 0 
+25.5 60 10 189 0.667 10000 231.1 0 0.001 2.275 0 0 
+35.5 80 10 262.8 0.966 10000 417.2 0 0 1.462 0 0 
+45.5 100 10 305.2 1.305 10000 971.1 0 0 1.719 0 0 
+
+
+C01 Thu Sep 29 13:46:35 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 400 MaxPerturb_RelVal 0.0001 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.6 0.221 10000 945.7 0 0 -2147475.05 0 0 
+15.5 40 10 122 0.434 10000 1213.7 0 0 5.506 0 0 
+25.5 60 10 188.9 0.674 10000 839 0 0 4.408 0 0 
+35.5 80 10 262.8 0.962 10000 85.4 0 0 1.278 0 0 
+45.5 100 10 305.4 1.305 10000 444.6 0 0 1.504 0 0 
+
+
+C01 Thu Sep 29 13:48:09 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 400 MaxPerturb_RelVal 0.0001 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.8 0.223 10000 44.7 0 0 -2147481.354 0 0 
+15.5 40 10 122 0.43 10000 133.3 0 0 4.21 0 0 
+25.5 60 10 189 0.679 10000 996.1 0 0 3.687 0 0 
+35.5 80 10 262.8 0.97 10000 388.1 0 0 1.33 0 0 
+45.5 100 10 305.6 1.315 10000 491.2 0 0 1.262 0 0 
+
+
+C01 Fri Sep 30 16:22:30 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1000 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.226 10000 545.2 0 0 -2147475.516 0 0 
+15.5 40 10 121.9 0.438 10000 1449.8 0 0 5.503 0 0 
+25.5 60 10 188.9 0.686 10000 326.3 0 0 3.145 0 0 
+35.5 80 10 262.8 0.975 10000 229.1 0 0 1.388 0 0 
+45.5 100 10 305.1 1.316 10000 1153.7 0 0 1.239 0 0 
+
+
+C01 Fri Sep 30 16:23:56 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.225 10000 545.2 0 0 -2147475.58 0 0 
+15.5 40 10 121.9 0.435 10000 1443.4 0 0 3.999 0 0 
+25.5 60 10 188.7 0.679 10000 1432.5 0 0.001 2.675 0 0 
+35.5 80 10 262.8 0.976 10000 72.2 0 0 1.205 0 0 
+45.5 100 10 305.3 1.321 10000 441.7 0 0 1.054 0 0 
+
+
+C01 Fri Sep 30 16:26:32 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 2500 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.224 10000 545.2 0 0 -2147475.58 0 0 
+15.5 40 10 122 0.432 10000 736.5 0 0 6.012 0 0 
+25.5 60 10 188.9 0.678 10000 944.5 0 0 3.525 0 0 
+35.5 80 10 262.8 0.979 10000 530.7 0 0 1.487 0 0 
+45.5 100 10 305.1 1.315 10000 1417.3 0 0 1.839 0 0 
+
+
+C01 Fri Sep 30 16:27:34 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 300 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.5 0.226 10000 537.4 0 0 -2147476.131 0 0 
+15.5 40 10 122 0.432 10000 270.5 0 0 4.179 0 0 
+25.5 60 10 188.9 0.682 10000 1648.4 0 0 2.657 0 0 
+35.5 80 10 262.7 0.972 10000 932 0 0 1.548 0 0 
+45.5 100 10 305.2 1.324 10000 1335.1 0 0 1.811 0 0 
+
+
+C01 Fri Sep 30 16:43:24 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.4 2.258 100000 1603 0 0 -2147483.049 0 0 
+15.5 40 10 121.9 4.353 100000 1443.4 0 0 0.398 0 0 
+25.5 60 10 188.6 6.805 100000 6963.9 0 0 0.422 0 0 
+35.5 80 10 262.6 9.707 100000 12357.1 0 0 0.244 0 0 
+45.5 100 10 305 13.187 100000 10160.2 0 0 0.184 0 0 
+
+
+C01 Fri Sep 30 17:28:44 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 10 61.4 2.22 100000 1603 0 0 -2147483.044 0 0 
+15.5 40 10 121.9 4.301 100000 1443.4 0 0 0.408 0 0 
+25.5 60 10 188.6 6.802 100000 6963.9 0 0 0.421 0 0 
+35.5 80 10 262.6 9.745 100000 12357.1 0 0 0.239 0 0 
+45.5 100 10 305 13.156 100000 10160.2 0 0 0.188 0 0 
+
+
+C02 Fri Sep 30 17:34:55 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 30 19.8 2.882 100000 6169.7 0 0 0.932 0 0 
+15.5 40 30 39.1 5.652 100000 5738.5 0 0 0.497 0 0 
+25.5 60 30 60.3 8.972 100000 21334.8 0 0 0.374 0 0 
+35.5 80 30 83.5 12.581 100000 2295.3 0 0 0.258 0 0 
+45.5 100 30 100.7 16.659 100000 2553.8 0 0 0.151 0 0 
+
+
+C03 Fri Sep 30 17:42:40 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 40 165.7 2.514 100000 5984.6 0 0 1.221 0 0 
+15.5 40 40 334.6 5.118 100000 9279 0 0 0.642 0 0 
+25.5 60 40 507.6 8.053 100000 21754.7 0 0 0.227 0 0 
+35.5 80 40 710.8 11.463 100000 12823.5 0 0 0.25 0 0 
+45.5 100 40 840.9 15.878 100000 28003.1 0 0 0.192 0 0 
+
+
+C04 Fri Sep 30 17:50:02 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 100 64.5 3.605 100000 11781.6 0 0.001 0.82 0 0 
+15.5 40 100 127.1 7.4 100000 25289.4 0 0 0.398 0 0 
+25.5 60 100 197.9 11.683 100000 17630.3 0 0 0.253 0 0 
+35.5 80 100 273.1 16.452 100000 29949 0 0 0.128 0 0 
+45.5 100 100 328.3 22.27 100000 23445.6 0 0 0.124 0 0 
+
+
+C05 Fri Sep 30 18:00:06 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 100 537.7 2.506 100000 16067.5 0 0 0.816 0 0 
+15.5 40 100 1075.7 5.102 100000 10772.8 0 0 0.711 0 0 
+25.5 60 100 1648.8 8.168 100000 18213.3 0 0 0.46 0 0 
+35.5 80 100 2291.8 11.727 100000 8280.9 0 0 0.351 0 0 
+45.5 100 100 2650.4 16.279 100000 22762.8 0 0 0.266 0 0 
+
+
+C06 Fri Sep 30 18:07:40 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 300 170.7 3.973 100000 13611.5 0 0.001 0.802 0 0 
+15.5 40 300 335.6 8.313 100000 43220 0 0 0.352 0 0 
+25.5 60 300 522.6 13.21 100000 32006.1 0 0 0.23 0 0 
+35.5 80 300 721 18.708 100000 45254.6 0 0 0.111 0 0 
+45.5 100 300 868.3 25.805 100000 45451.6 0 0 0.083 0 0 
+
+
+C07 Fri Sep 30 18:19:03 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 100 501.9 2.163 100000 51.9 0 0 0.558 0 0 
+15.5 40 100 1059.1 4.337 100000 12035.2 0 0 0.394 0 0 
+25.5 60 100 1530.1 6.961 100000 802 0 0 0.147 0 0 
+35.5 80 100 2222.3 10.182 100000 751.4 0 0 0.271 0 0 
+45.5 100 100 2645.8 14.105 100000 2797.4 0 0 0.18 0 0 
+
+
+C08 Fri Sep 30 18:25:29 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 100 461.6 2.953 100000 24745.1 0 0 1.01 0 0 
+15.5 40 100 956.9 5.933 100000 44379.9 0 0 0.535 0 0 
+25.5 60 100 1408.9 9.924 100000 51972.9 0 0 0.32 0 0 
+35.5 80 100 1973 13.931 100000 30902.1 0 0 0.154 0 0 
+45.5 100 100 2428.8 18.881 100000 44343.3 0 0 0.144 0 0 
+
+
+C09 Fri Sep 30 18:33:57 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 100 1106.8 2.116 100000 4.5 0 0 0.167 0 0 
+15.5 40 100 2190.6 4.278 100000 37.7 0 0 0.312 0 0 
+25.5 60 100 3410.4 6.979 100000 7.8 0 0 0.075 0 0 
+35.5 80 100 4588.1 10.213 100000 10 0 0 0.049 0 0 
+45.5 100 100 5434.9 14.184 100000 13.2 0 0 0.044 0 0 
+
+
+C10 Fri Sep 30 18:40:20 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 100000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 correctionScheme 2 w_pow 2.1 
+5.5 20 100 353.1 2.682 100000 8467.4 0 0 0.98 0 0 
+15.5 40 100 669.3 5.394 100000 13136.3 0 0 0.636 0 0 
+25.5 60 100 941.9 8.981 100000 38917.3 0 0 0.329 0 0 
+35.5 80 100 1215.2 13.257 100000 37211.3 0 0 0.319 0 0 
+45.5 100 100 1518.5 17.816 100000 33335.2 0 0 0.121 0 0 
+
+
+C01 Wed Oct  5 15:07:27 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500000 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 0.5 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.509 10000 152.3 0 0 -2147482.552 0 0 
+15.5 40 10 122.1 0.995 10000 394.2 0 0 1.396 0 0 
+25.5 60 10 189.2 1.55 10000 270.4 0 0 1.309 0 0 
+35.5 80 10 262.9 2.145 10000 77 0 0 0.642 0 0 
+45.5 100 10 305.4 2.809 10000 140 0 0 0.403 0 0 
+
+
+C01 Wed Oct  5 15:09:18 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 0.5 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.506 10000 140.5 0 0 -2147482.573 0 0 
+15.5 40 10 121.9 1.014 10000 781.4 0 0.001 2.171 0 0 
+25.5 60 10 188.8 1.559 10000 1967.2 0 0 2.057 0 0 
+35.5 80 10 262.8 2.169 10000 211.8 0 0 0.886 0 0 
+45.5 100 10 305.1 2.829 10000 734.9 0 0 0.578 0 0 
+
+
+C01 Wed Oct  5 15:18:31 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 1 corr2D_fAveBlockwise 0.5 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.537 10000 127 0 0 -2147482.441 0 54.2 
+15.5 40 10 122.2 1.084 10000 627.2 0 0 1.883 0 92.4 
+25.5 60 10 189.3 1.682 10000 290.5 0 0 0.918 0 189.3 
+35.5 80 10 263 2.312 10000 291.2 0 0.001 0.673 0 263 
+45.5 100 10 306 2.993 10000 2307.9 0 0 0.595 0 270.5 
+
+
+C01 Wed Oct  5 15:20:23 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 1 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.4 0.584 10000 1067.5 0 0 -2147481.062 0 0 
+15.5 40 10 122.1 1.164 10000 1620.7 0 0 1.963 0 0 
+25.5 60 10 189.1 1.789 10000 1039.6 0 0 0.944 0 0 
+35.5 80 10 263 2.46 10000 540.8 0 0 0.671 0 0 
+45.5 100 10 306 3.234 10000 2242.5 0 0 0.685 0 0 
+
+
+C01 Wed Oct  5 15:59:14 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 1 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.505 10000 379.7 0 0 -2147480.393 0 0 
+15.5 40 10 122 1.02 10000 1615.7 0 0 2.315 0 0 
+25.5 60 10 188.7 1.547 10000 909.1 0 0 1.776 0 0 
+35.5 80 10 262.8 2.155 10000 169 0 0 0.819 0 0 
+45.5 100 10 305.2 2.813 10000 1393.2 0 0 0.755 0 0 
+
+
+C01 Wed Oct  5 16:19:45 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.509 10000 140.5 0 0 -2147482.552 0 0 
+15.5 40 10 121.9 1.008 10000 781.4 0 0 2.171 0 0 
+25.5 60 10 188.8 1.561 10000 1967.2 0 0 2.048 0 0 
+35.5 80 10 262.8 2.169 10000 211.8 0 0 0.893 0 0 
+45.5 100 10 305.1 2.835 10000 734.9 0 0 0.576 0 0 
+
+
+C01 Wed Oct  5 16:27:37 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.05 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.507 10000 108.5 0 0 -2147482.084 0 0 
+15.5 40 10 121.9 1.016 10000 236.4 0 0 1.585 0 0 
+25.5 60 10 188.8 1.551 10000 291.1 0 0 1.367 0 0 
+35.5 80 10 262.8 2.165 10000 109.9 0 0 0.573 0 0 
+45.5 100 10 305.1 2.827 10000 1018.6 0 0 0.559 0 0 
+
+
+C01 Wed Oct  5 16:29:30 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.3 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.504 10000 348.2 0 0 -2147481.39 0 0 
+15.5 40 10 122 1.003 10000 1159.5 0 0 2.783 0 0 
+25.5 60 10 188.8 1.542 10000 886.3 0 0 1.683 0 0 
+35.5 80 10 262.8 2.165 10000 125.4 0 0 0.756 0 0 
+45.5 100 10 305.2 2.832 10000 688 0 0 0.538 0 0 
+
+
+C01 Wed Oct  5 16:31:56 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1.2 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.54 10000 125.1 0 0 -2147482.699 0 0 
+15.5 40 10 121.9 1.083 10000 715 0 0 1.543 0 0 
+25.5 60 10 188.9 1.652 10000 1334.3 0 0 1.656 0 0 
+35.5 80 10 262.8 2.305 10000 116.7 0 0 0.642 0 0 
+45.5 100 10 305.1 2.991 10000 1464 0 0 0.531 0 0 
+
+
+C01 Wed Oct  5 16:35:14 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 0.9 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.552 10000 71 0 0 -2147482.023 0 0 
+15.5 40 10 121.8 1.095 10000 406.3 0 0 1.871 0 0 
+25.5 60 10 188.8 1.674 10000 1394.3 0 0 1.28 0 0 
+35.5 80 10 262.8 2.306 10000 187.8 0 0 0.62 0 0 
+45.5 100 10 305.3 3.014 10000 337.2 0 0 0.563 0 0 
+
+
+C01 Thu Oct  6 19:10:51 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.52 10000 140.5 0 0 -2147482.573 0 0 
+15.5 40 10 121.9 1.035 10000 781.4 0 0 2.133 0 0 
+25.5 60 10 188.8 1.59 10000 1967.2 0 0 2.017 0 0 
+35.5 80 10 262.8 2.212 10000 211.8 0 0 0.867 0 0 
+45.5 100 10 305.1 2.87 10000 734.9 0 0 0.57 0 0 
+
+
+C02 Thu Oct  6 19:12:14 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 30 20.1 0.593 10000 238.5 0 0 3.042 0 0 
+15.5 40 30 39.2 1.188 10000 978.9 0 0 1.847 0 0 
+25.5 60 30 60.6 1.856 10000 893.8 0 0 1.037 0 0 
+35.5 80 30 83.6 2.558 10000 994.7 0 0 0.76 0 0 
+45.5 100 30 100.8 3.32 10000 1609.9 0 0 0.805 0 0 
+
+
+C03 Thu Oct  6 19:13:50 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 40 165.4 0.575 10000 2131.9 0 0 4.128 0 0 
+15.5 40 40 335 1.187 10000 3153.3 0 0 1.439 0 0 
+25.5 60 40 508.8 1.824 10000 3222.9 0 0 1.212 0 0 
+35.5 80 40 711.6 2.523 10000 3039.7 0 0 0.989 0 0 
+45.5 100 40 842.2 3.361 10000 2036.9 0 0 0.514 0 0 
+
+
+C04 Thu Oct  6 19:15:27 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 64.9 0.774 10000 1709.9 0 0 3.52 0 0 
+15.5 40 100 127.7 1.608 10000 3829 0 0 1.44 0 0 
+25.5 60 100 198.4 2.471 10000 2615.3 0 0 0.691 0 0 
+35.5 80 100 273.8 3.4 10000 4269.8 0 0 0.724 0 0 
+45.5 100 100 329.1 4.502 10000 4139.6 0 0 0.37 0 0 
+
+
+C05 Thu Oct  6 19:17:34 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 539 0.585 10000 403.2 0 0 2.147 0 0 
+15.5 40 100 1078.1 1.191 10000 2146.4 0 0.001 1.946 0 0 
+25.5 60 100 1651.7 1.844 10000 2525.2 0 0 0.963 0 0 
+35.5 80 100 2292.1 2.547 10000 1920 0 0 0.931 0 0 
+45.5 100 100 2655.7 3.428 10000 4537.1 0 0 0.5 0 0 
+
+
+C06 Thu Oct  6 19:19:13 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 300 171.4 0.872 10000 2785.5 0 0 2.878 0 0 
+15.5 40 300 337.3 1.817 10000 3204.7 0 0 1.26 0 0 
+25.5 60 300 525.1 2.808 10000 4368.4 0 0 0.63 0 0 
+35.5 80 300 723.7 3.842 10000 4193.3 0 0 0.565 0 0 
+45.5 100 300 871.1 5.157 10000 3963.1 0 0 0.429 0 0 
+
+
+C07 Thu Oct  6 19:21:35 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 501.9 0.524 10000 62 0 0 2.286 0 0 
+15.5 40 100 1059.6 1.049 10000 803.8 0 0 1.315 0 0 
+25.5 60 100 1530.1 1.653 10000 417.6 0 0 0.57 0 0 
+35.5 80 100 2222.3 2.296 10000 481.1 0 0 0.545 0 0 
+45.5 100 100 2645.8 3.037 10000 1387.8 0 0 0.86 0 0 
+
+
+C08 Thu Oct  6 19:23:03 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 464.9 0.667 10000 3945.1 0 0 3.66 0 0 
+15.5 40 100 966 1.355 10000 3857.9 0 0 1.421 0 0 
+25.5 60 100 1414.6 2.188 10000 5520.4 0 0 0.808 0 0 
+35.5 80 100 1979.7 2.972 10000 3195.4 0 0 0.518 0 0 
+45.5 100 100 2439.1 3.891 10000 5035.5 0 0 0.545 0 0 
+
+
+C09 Thu Oct  6 19:24:52 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 1106.8 0.503 10000 5.9 0 0 0.599 0 0 
+15.5 40 100 2190.6 1.021 10000 137.5 0 0 1.424 0 0 
+25.5 60 100 3410.4 1.597 10000 9.2 0 0 0.348 0 0 
+35.5 80 100 4588.1 2.258 10000 12 0 0 0.248 0 0 
+45.5 100 100 5434.9 3.018 10000 16.9 0 0 0.248 0 0 
+
+
+C10 Thu Oct  6 19:26:18 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 353.3 0.604 10000 1568 0 0 3.858 0 0 
+15.5 40 100 670.6 1.234 10000 3727.8 0 0 1.495 0 0 
+25.5 60 100 944.9 1.975 10000 4497.6 0 0 1.132 0 0 
+35.5 80 100 1219 2.779 10000 4800.5 0 0 0.801 0 0 
+45.5 100 100 1522.5 3.645 10000 6195.7 0 0 0.49 0 0 
+
+
+C01 Sun Oct  9 16:42:48 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.517 10000 267.6 0 0 -2147481.236 0 0 
+15.5 40 10 121.9 1.013 10000 578.5 0 0 1.838 0 0 
+25.5 60 10 188.8 1.56 10000 409.7 0 0 1.303 0 0 
+35.5 80 10 262.8 2.167 10000 31.9 0 0 0.395 0 0 
+45.5 100 10 305.2 2.828 10000 1264.6 0 0 0.835 0 0 
+
+
+C01 Sun Oct  9 16:47:54 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.514 10000 267.6 0 0 -2147481.212 0 0 
+15.5 40 10 121.9 1.004 10000 578.5 0 0 1.852 0 0 
+25.5 60 10 188.8 1.563 10000 409.7 0 0 1.303 0 0 
+35.5 80 10 262.8 2.165 10000 31.9 0 0 0.398 0 0 
+45.5 100 10 305.2 2.83 10000 1264.6 0 0 0.837 0 0 
+
+
+C01 Sun Oct  9 16:53:38 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 1e-06 ValuesResetPeriod 500 Filling_FFD_KP 0 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.513 10000 267.6 0 0 -2147481.259 0 0 
+15.5 40 10 121.9 0.994 10000 578.5 0 0 1.871 0 0 
+25.5 60 10 188.8 1.563 10000 409.7 0 0 1.292 0 0 
+35.5 80 10 262.8 2.164 10000 31.9 0 0 0.398 0 0 
+45.5 100 10 305.2 2.834 10000 1264.6 0 0 0.839 0 0 
+
+
+C01 Sun Oct  9 16:56:17 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 1.604 10000 600.2 0 0 -2147482.421 0 0 
+15.5 40 10 122 4.309 10000 1233.3 0 0 0.566 0 0 
+25.5 60 10 188.8 7.927 10000 747.4 0 0 0.141 0 0 
+35.5 80 10 262.7 13.052 10000 152.8 0 0 0.101 0 0 
+45.5 100 10 304.9 18.878 10000 646.3 0 0 0.128 0 0 
+
+
+C01 Sun Oct  9 17:17:38 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.4 1.743 10000 510.9 0 0 -2147482.586 0 0 
+15.5 40 10 122.1 4.814 10000 58.6 0 0 0.257 0 0 
+25.5 60 10 188.6 9.14 10000 211.7 0 0 0.216 0 0 
+35.5 80 10 262.7 15.156 10000 45.2 0 0 0.059 0 0 
+45.5 100 10 304.9 21.803 10000 770.1 0 0 0.093 0 0 
+
+
+C01 Sun Oct  9 17:35:03 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.4 1.722 10000 1420.2 0 0 -2147482.152 0 0 
+15.5 40 10 122 4.762 10000 931 0 0 0.376 0 0 
+25.5 60 10 188.6 9.12 10000 106.2 0 0 0.2 0 0 
+35.5 80 10 262.7 15.094 10000 39.2 0 0 0.082 0 0 
+45.5 100 10 304.9 21.519 10000 271 0 0 0.098 0 0 
+
+
+C01 Sun Oct  9 17:56:53 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 3 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.4 1.74 10000 1527.4 0 0 -2147482.742 0 0 
+15.5 40 10 122 4.743 10000 683.8 0 0 0.396 0 0 
+25.5 60 10 188.7 8.978 10000 385.8 0 0 0.164 0 0 
+35.5 80 10 262.6 14.864 10000 224.2 0 0 0.083 0 0 
+45.5 100 10 304.9 21.266 10000 191.3 0 0 0.074 0 0 
+
+
+C01 Sun Oct  9 18:25:16 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 13 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 1.726 10000 210.3 0 0 -2147483.004 0 0 
+15.5 40 10 122 4.711 10000 310.8 0 0 0.48 0 0 
+25.5 60 10 188.6 8.695 10000 879 0 0 0.168 0 0 
+35.5 80 10 262.6 14.608 10000 113 0 0 0.071 0 0 
+45.5 100 10 304.9 20.846 10000 1199.5 0 0 0.128 0 0 
+
+
+C01 Sun Oct  9 18:41:35 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 10 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 1.686 10000 533.4 0 0 -2147482.492 0 0 
+15.5 40 10 122.1 4.591 10000 165.8 0 0 0.286 0 0 
+25.5 60 10 188.7 8.562 10000 915 0 0 0.156 0 0 
+35.5 80 10 262.6 14.558 10000 117.9 0.001 0 0.075 0 0 
+45.5 100 10 304.9 20.722 10000 417.5 0 0 0.11 0 0 
+
+
+C01 Sun Oct  9 18:53:15 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 1.679 10000 124 0 0 -2147483.078 0 0 
+15.5 40 10 121.9 4.686 10000 588.5 0 0 0.433 0 0 
+25.5 60 10 188.7 8.875 10000 72.1 0 0.001 0.15 0 0 
+35.5 80 10 262.6 14.653 10000 201.5 0 0 0.067 0 0 
+45.5 100 10 304.9 21.24 10000 141.7 0 0 0.073 0 0 
+
+
+C01 Sun Oct  9 19:07:18 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 1.573 10000 124 0 0 -2147483.042 0 0 
+15.5 40 10 121.9 4.311 10000 588.5 0 0 0.465 0 0 
+25.5 60 10 188.7 8.333 10000 72.1 0 0 0.162 0 0 
+35.5 80 10 262.6 13.875 10000 201.5 0 0 0.07 0 0 
+45.5 100 10 304.9 19.881 10000 141.7 0 0 0.078 0 0 
+
+
+C02 Sun Oct  9 19:18:30 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 30 19.9 1.297 10000 959.5 0 0 1.703 0 0 
+15.5 40 30 39.2 3.766 10000 74 0 0 0.256 0 0 
+25.5 60 30 60.1 7.757 10000 828.9 0 0 0.293 0 0 
+35.5 80 30 83.2 12.386 10000 209.5 0 0 0.145 0 0 
+45.5 100 30 100.5 18.466 10000 164 0 0 0.078 0 0 
+
+
+C03 Sun Oct  9 19:28:51 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 40 167.5 1.617 10000 352.4 0 0 1.315 0 0 
+15.5 40 40 337.3 4.445 10000 2065.7 0 0 0.56 0 0 
+25.5 60 40 510.4 8.838 10000 2326.3 0 0 0.212 0 0 
+35.5 80 40 711.5 14.208 10000 2218.3 0 0 0.131 0 0 
+45.5 100 40 844.5 20.605 10000 2298.7 0 0 0.084 0 0 
+
+
+C04 Sun Oct  9 19:40:28 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 64.9 1.562 10000 2480.7 0 0 1.153 0 0 
+15.5 40 100 127.4 4.329 10000 4326.4 0 0 0.461 0 0 
+25.5 60 100 197.2 8.534 10000 2112.1 0 0 0.27 0 0 
+35.5 80 100 272.5 14.075 10000 1905.9 0 0 0.128 0 0 
+45.5 100 100 327.3 20.218 10000 3924.6 0 0 0.11 0 0 
+
+
+C05 Sun Oct  9 19:51:35 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 545.8 1.678 10000 1767.8 0 0 0.647 0 0 
+15.5 40 100 1086.9 4.77 10000 2164 0 0 0.468 0 0 
+25.5 60 100 1664.6 9.538 10000 3183.4 0 0 0.25 0 0 
+35.5 80 100 2307.2 16.104 10000 2985.4 0 0 0.178 0 0 
+45.5 100 100 2708.8 23.023 10000 6296.5 0 0 0.134 0 0 
+
+
+C06 Sun Oct  9 20:04:11 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 300 174.6 1.731 10000 4195.6 0 0 1.265 0 0 
+15.5 40 300 338.8 4.866 10000 4122.9 0 0 0.521 0 0 
+25.5 60 300 526.5 9.597 10000 4578.3 0 0 0.233 0 0 
+35.5 80 300 724.2 15.459 10000 5851.1 0 0 0.118 0 0 
+45.5 100 300 872.7 22.361 10000 4185.4 0 0 0.105 0 0 
+
+
+C07 Sun Oct  9 20:16:21 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 504.1 2.038 10000 103 0 0 0.727 0 0 
+15.5 40 100 1060.8 6.293 10000 1430.1 0 0 0.297 0 0 
+25.5 60 100 1534.9 13.205 10000 1456 0 0 0.247 0 0 
+35.5 80 100 2228.4 22.518 10000 1707 0 0.001 0.074 0 0 
+45.5 100 100 2655.7 35.347 10000 2365.7 0 0 0.076 0 0 
+
+
+C08 Sun Oct  9 20:33:28 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 469.2 1.708 10000 2208.3 0 0 0.925 0 0 
+15.5 40 100 974.5 4.754 10000 4352 0 0 0.351 0 0 
+25.5 60 100 1422.5 9.033 10000 3223.4 0 0 0.26 0 0 
+35.5 80 100 2001 14.665 10000 5643.2 0 0 0.123 0 0 
+45.5 100 100 2456.6 21.927 10000 4423.3 0 0.001 0.112 0 0 
+
+
+C09 Sun Oct  9 20:45:40 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 1106.8 2.087 10000 102.5 0 0 0.33 0 0 
+15.5 40 100 2191.4 6.347 10000 952.4 0 0 0.297 0 0 
+25.5 60 100 3410.4 13.612 10000 3.7 0 0 0.042 0 0 
+35.5 80 100 4588.1 23.938 10000 2.8 0 0 0.004 0 0 
+45.5 100 100 5434.9 34.631 10000 4.4 0 0.001 0.006 0 0 
+
+
+C10 Sun Oct  9 21:02:58 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 500 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 355.6 1.55 10000 1898 0 0 1.7 0 0 
+15.5 40 100 678.9 4.509 10000 4396.6 0 0 0.504 0 0 
+25.5 60 100 948.9 8.642 10000 3903.4 0 0 0.202 0 0 
+35.5 80 100 1229.8 13.991 10000 5641 0 0 0.129 0 0 
+45.5 100 100 1532.1 20.87 10000 5275.2 0 0 0.117 0 0 
+
+
+C01 Mon Oct 10 13:50:36 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 1.482 10000 113.9 0 0 -2147483.166 0 0 
+15.5 40 10 122 3.891 10000 679.9 0 0 0.517 0 0 
+25.5 60 10 188.7 7.037 10000 146.9 0 0 0.206 0 0 
+35.5 80 10 262.6 11.264 10000 253.4 0 0 0.099 0 0 
+45.5 100 10 304.9 15.771 10000 150.5 0 0 0.094 0 0 
+
+
+C02 Mon Oct 10 14:00:17 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 30 20 1.307 10000 390.7 0 0 1.574 0 0 
+15.5 40 30 39.1 3.593 10000 77.8 0 0 0.418 0 0 
+25.5 60 30 60.2 6.969 10000 203.5 0 0 0.183 0 0 
+35.5 80 30 83.2 10.985 10000 249.3 0 0 0.166 0 0 
+45.5 100 30 100.5 15.587 10000 53.2 0 0 0.042 0 0 
+
+
+C03 Mon Oct 10 14:09:36 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 40 168.2 1.53 10000 536.6 0 0 1.116 0 0 
+15.5 40 40 337.5 3.865 10000 2732.8 0 0 0.749 0 0 
+25.5 60 40 510.9 7.067 10000 2447.5 0 0 0.304 0 0 
+35.5 80 40 711.8 10.922 10000 2491.4 0 0 0.287 0 0 
+45.5 100 40 844.8 15.217 10000 2467.8 0 0 0.198 0 0 
+
+
+C04 Mon Oct 10 14:19:26 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 65.8 1.562 10000 1124.5 0 0 1.277 0 0 
+15.5 40 100 127.5 4.086 10000 3488.3 0 0 0.598 0 0 
+25.5 60 100 197.2 7.745 10000 3633.7 0 0 0.368 0 0 
+35.5 80 100 271.9 11.857 10000 2825.1 0 0 0.196 0 0 
+45.5 100 100 327.1 16.739 10000 2729.4 0 0 0.167 0 0 
+
+
+C05 Mon Oct 10 14:29:27 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 546.6 1.584 10000 619.4 0 0 0.972 0 0 
+15.5 40 100 1091.3 4.166 10000 815.5 0 0 0.489 0 0 
+25.5 60 100 1666.7 7.82 10000 3261.7 0 0 0.183 0 0 
+35.5 80 100 2310.4 12.644 10000 1775.9 0 0 0.226 0 0 
+45.5 100 100 2718.9 17.27 10000 3232.2 0 0 0.112 0 0 
+
+
+C06 Mon Oct 10 14:40:11 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 300 175.7 1.68 10000 607.1 0 0 0.947 0 0 
+15.5 40 300 340.3 4.472 10000 3263.3 0 0 0.402 0 0 
+25.5 60 300 527.2 8.342 10000 3272.1 0 0 0.209 0 0 
+35.5 80 300 725.9 12.878 10000 4473.3 0.001 0 0.173 0 0 
+45.5 100 300 872.1 17.751 10000 2784.1 0 0 0.141 0 0 
+
+
+C07 Mon Oct 10 14:50:50 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 507.5 1.996 10000 3.6 0 0 0.07 0 0 
+15.5 40 100 1062.3 6.043 10000 1367.6 0 0 0.317 0 0 
+25.5 60 100 1545.9 12.451 10000 511.8 0 0 0.119 0 0 
+35.5 80 100 2230.8 20.925 10000 1548.8 0.001 0 0.092 0 0 
+45.5 100 100 2664.6 32.69 10000 733.5 0 0 0.076 0 0 
+
+
+C08 Mon Oct 10 15:07:01 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 469.2 1.547 10000 1576.4 0 0 1.361 0 0 
+15.5 40 100 976.6 3.953 10000 3113.1 0 0 0.489 0 0 
+25.5 60 100 1428.1 7.15 10000 5183.6 0 0 0.331 0 0 
+35.5 80 100 1998.2 10.882 10000 4781.5 0 0 0.226 0 0 
+45.5 100 100 2462 15.322 10000 3017.5 0 0.001 0.142 0 0 
+
+
+C09 Mon Oct 10 15:16:51 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 1106.8 1.978 10000 2.8 0 0 0.035 0 0 
+15.5 40 100 2191.5 6.067 10000 2.4 0 0 0.038 0 0 
+25.5 60 100 3410.4 12.913 10000 7.9 0 0 0.051 0 0 
+35.5 80 100 4588.1 22.588 10000 3 0 0 0.007 0 0 
+45.5 100 100 5434.9 31.425 10000 4.6 0 0 0.009 0 0 
+
+
+C10 Mon Oct 10 15:33:07 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 1 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 358.4 1.439 10000 1690.9 0 0 1.234 0 0 
+15.5 40 100 680.6 3.812 10000 2609.2 0 0 0.544 0 0 
+25.5 60 100 951.8 6.814 10000 4298.3 0 0 0.296 0 0 
+35.5 80 100 1232.4 10.6 10000 4630.9 0 0 0.216 0 0 
+45.5 100 100 1535.7 15.055 10000 3398.4 0 0 0.159 0 0 
+
+
+C01 Mon Oct 10 18:20:08 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0.5 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.7 0.975 10000 538.1 0 0 -2147481.585 0 0 
+15.5 40 10 122.1 2.356 10000 1897.9 0 0 1.057 0 0 
+25.5 60 10 188.9 4.133 10000 285 0 0 0.237 0 0 
+35.5 80 10 262.6 6.436 10000 963.1 0 0 0.232 0 0 
+45.5 100 10 305.2 8.817 10000 803.1 0 0 0.206 0 0 
+
+
+C02 Mon Oct 10 18:25:35 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0.5 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 30 20.1 0.89 10000 1290.9 0 0 2.387 0 0 
+15.5 40 30 39.1 2.169 10000 686.4 0 0 1.224 0 0 
+25.5 60 30 60.3 3.889 10000 408.5 0 0 0.347 0 0 
+35.5 80 30 83.2 5.786 10000 171.5 0 0 0.282 0 0 
+45.5 100 30 100.5 8.195 10000 298.2 0 0 0.258 0 0 
+
+
+C03 Mon Oct 10 18:30:29 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0.5 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 40 166 1.045 10000 1159.7 0 0 2.263 0 0 
+15.5 40 40 337.4 2.473 10000 1096.1 0 0 0.929 0 0 
+25.5 60 40 510.8 4.35 10000 2193.4 0 0.001 0.465 0 0 
+35.5 80 40 711.1 6.526 10000 978 0 0 0.453 0 0 
+
+
+../hopper_c Mon Oct 10 18:34:00 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0.5 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 25.8 42 26 1.245 10000 940.7 0 0 -2147482.458 0 0 
+45.5 100 40 843.3 9.024 10000 1938.9 0 0 0.258 0 0 
+
+
+C04 Mon Oct 10 18:36:07 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0.5 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 65.3 1.109 10000 1536.8 0 0 2.351 0 0 
+15.5 100.1 86 125.1 10.666 10000 630.7 0 0 0.619 0 0 
+15.5 40 100 128 2.679 10000 2565.3 0 0 0.688 0 0 
+21 196 160 244 28.03 10000 1206 0 0 0.5 0 0 
+25.5 60 100 198.2 4.715 10000 2856.8 0 0 0.509 0 0 
+35.5 80 100 273.1 7.043 10000 3884.6 0 0 0.366 0 0 
+45.5 100 100 328.2 9.75 10000 2447.4 0 0 0.167 0 0 
+
+
+C05 Mon Oct 10 18:41:49 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0.5 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 543 1.067 10000 1511.8 0 0 0.939 0 0 
+15.5 40 100 1085.6 2.646 10000 2437 0 0 0.713 0 0 
+25.5 60 100 1661.9 4.782 10000 2447.8 0 0 0.459 0 0 
+35.5 80 100 2303 7.467 10000 2570.2 0 0 0.234 0 0 
+45.5 100 100 2681.1 10.282 10000 3616 0 0 0.211 0 0 
+
+
+C06 Mon Oct 10 18:47:59 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0.5 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 300 175 1.226 10000 2733.6 0 0 1.383 0 0 
+15.5 40 300 339.6 3.016 10000 3398.9 0 0 0.507 0 0 
+25.5 60 300 527.6 5.347 10000 4818.1 0.001 0 0.427 0 0 
+35.5 80 300 725.3 8.062 10000 3179.1 0 0 0.257 0 0 
+45.5 100 300 871 11.068 10000 5439.3 0 0 0.165 0 0 
+
+
+C07 Mon Oct 10 18:54:19 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0.5 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 501.9 1.226 10000 59.2 0 0 1.018 0 0 
+15.5 40 100 1060.5 3.544 10000 2549.9 0 0 0.536 0 0 
+25.5 60 100 1531.2 7.027 10000 750.2 0 0 0.131 0 0 
+35.5 80 100 2226.3 11.523 10000 712.8 0 0 0.154 0 0 
+45.5 100 100 2649.3 17.917 10000 1227.8 0 0 0.132 0 0 
+
+
+C08 Mon Oct 10 19:03:06 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0.5 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 471.8 1.074 10000 2196.4 0 0 1.938 0 0 
+15.5 40 100 975.8 2.598 10000 2739.6 0 0 0.885 0 0 
+25.5 60 100 1428 4.508 10000 5852 0 0 0.541 0 0 
+35.5 80 100 1998.1 6.89 10000 4555.3 0 0 0.355 0 0 
+45.5 100 100 2457.7 9.627 10000 6019.9 0 0 0.189 0 0 
+
+
+C09 Mon Oct 10 19:08:56 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0.5 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 1106.8 1.232 10000 3.8 0 0 0.169 0 0 
+15.5 40 100 2190.6 3.5 10000 540.6 0.001 0 0.683 0 0 
+25.5 60 100 3410.4 7.112 10000 5.3 0 0 0.061 0 0 
+35.5 80 100 4588.1 12.383 10000 4.9 0 0 0.03 0 0 
+45.5 100 100 5434.9 17.063 10000 7.1 0 0 0.037 0 0 
+
+
+C10 Mon Oct 10 19:17:47 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0.5 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 354.4 1.003 10000 3462.8 0 0 2.226 0 0 
+15.5 40 100 677.8 2.512 10000 2390.9 0 0 0.973 0 0 
+25.5 60 100 950.3 4.344 10000 4090.6 0 0 0.532 0 0 
+35.5 80 100 1229.9 6.544 10000 4583.9 0 0 0.359 0 0 
+45.5 100 100 1533.8 9.207 10000 4504.8 0 0.001 0.266 0 0 
+
+
+C01 Tue Oct 11 12:47:26 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 10 61.5 0.482 10000 1075.3 0 0 -2147480.739 0 0 
+15.5 40 10 121.9 0.942 10000 488.4 0 0 2.443 0 0 
+
+
+../hopper_c Tue Oct 11 12:47:46 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 25.8 42 26.2 0.688 10000 323.3 0 0 -2147482.935 0 0 
+25.5 60 10 189.1 1.463 10000 184.6 0 0 1.064 0 0 
+35.5 80 10 262.8 2.038 10000 41.3 0 0 0.403 0 0 
+15.5 100.1 86 125.5 4.57 10000 2146.2 0 0 1.288 0 0 
+45.5 100 10 305.3 2.653 10000 1930.5 0 0 0.78 0 0 
+
+
+C02 Tue Oct 11 12:48:42 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 30 20 0.552 10000 670.5 0 0 4.731 0 0 
+21 196 160 243 11.15 10000 8701 0 0 1.62 0 0 
+15.5 40 30 39.3 1.093 10000 684.4 0 0 2.397 0 0 
+25.5 60 30 60.8 1.704 10000 237.1 0 0 1.002 0 0 
+35.5 80 30 83.5 2.354 10000 1140.6 0 0 1.09 0 0 
+45.5 100 30 100.7 3.056 10000 1412 0 0 1.011 0 0 
+
+
+C03 Tue Oct 11 12:50:10 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 40 166.3 0.527 10000 1370 0 0 4.492 0 0 
+15.5 40 40 336 1.091 10000 2544.1 0 0 1.939 0 0 
+25.5 60 40 510.1 1.679 10000 3023.3 0 0 1.42 0 0 
+35.5 80 40 712.7 2.316 10000 1520.9 0 0 0.712 0 0 
+45.5 100 40 842.1 3.09 10000 2678.8 0 0.001 0.946 0 0 
+
+
+C04 Tue Oct 11 12:51:39 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 65 0.721 10000 2221.2 0 0 3.424 0 0 
+15.5 40 100 127.7 1.489 10000 2684.5 0 0 2.017 0 0 
+25.5 60 100 198.2 2.268 10000 4114.1 0 0 0.993 0 0 
+35.5 80 100 274.3 3.129 10000 3035.6 0 0 0.562 0 0 
+45.5 100 100 329.1 4.145 10000 4020.3 0 0 0.544 0 0 
+
+
+C05 Tue Oct 11 12:53:35 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 539.8 0.537 10000 1645.7 0 0 1.626 0 0 
+15.5 40 100 1077.8 1.084 10000 2658 0 0 2.004 0 0 
+25.5 60 100 1652.5 1.669 10000 3195.9 0 0 1.128 0 0 
+35.5 80 100 2293 2.342 10000 1600.8 0 0 0.975 0 0 
+45.5 100 100 2655.5 3.142 10000 3286.3 0 0 0.759 0 0 
+
+
+C06 Tue Oct 11 12:55:06 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 300 172.6 0.809 10000 2277.6 0 0 3.229 0 0 
+15.5 40 300 338.4 1.674 10000 3826.9 0 0 1.308 0 0 
+25.5 60 300 524.4 2.585 10000 4940.9 0 0 0.74 0 0 
+35.5 80 300 724.2 3.533 10000 5096.1 0 0 0.582 0 0 
+45.5 100 300 870.2 4.751 10000 6488.6 0 0 0.491 0 0 
+
+
+C07 Tue Oct 11 12:57:17 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 501.9 0.488 10000 66.8 0 0 2.473 0 0 
+15.5 40 100 1060.3 0.973 10000 1107.6 0 0 1.487 0 0 
+25.5 60 100 1530.3 1.513 10000 589.1 0 0 0.972 0 0 
+35.5 80 100 2222.4 2.115 10000 1921.1 0 0 1.126 0 0 
+45.5 100 100 2645.7 2.791 10000 602.8 0 0 0.695 0 0 
+
+
+C08 Tue Oct 11 12:58:37 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 464.4 0.624 10000 3247.9 0 0 3.72 0 0 
+15.5 40 100 967 1.245 10000 4739.4 0 0 2.047 0 0 
+25.5 60 100 1411.9 2.01 10000 4959.4 0 0 1.084 0 0 
+35.5 80 100 1978.8 2.741 10000 5043.7 0 0 0.635 0 0 
+45.5 100 100 2435.7 3.598 10000 4593.4 0 0 0.671 0 0 
+
+
+C09 Tue Oct 11 13:00:18 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 1106.8 0.475 10000 5.6 0 0 0.701 0 0 
+15.5 40 100 2190.6 0.964 10000 98.9 0 0 1.774 0 0 
+25.5 60 100 3410.4 1.503 10000 10.5 0 0 0.385 0 0 
+35.5 80 100 4588.1 2.102 10000 11.6 0 0 0.241 0 0 
+45.5 100 100 5434.9 2.809 10000 15.4 0 0 0.231 0 0 
+
+
+C10 Tue Oct 11 13:01:38 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 10 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Filling_FFD_KP 0 q2D 1 correctionScheme 2 corr2D_accu_ave 0 corr2D_fAveBlockwise 1 corr2D_fLocalWaste 0 corr2D_2D 0 corr2D_fLocalAfter 0 pa 1 0 0  2.1 0.1 0  1 0 0   pb 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   ps 1.05 0.05 0  2.1 0.1 0  1.1 0.05 0   w_pow 2.05 
+5.5 20 100 354.3 0.567 10000 1654.3 0 0 2.838 0 0 
+15.5 40 100 672.7 1.154 10000 4536 0 0 2.233 0 0 
+25.5 60 100 945.1 1.838 10000 4539.9 0 0 0.994 0 0 
+35.5 80 100 1219.4 2.593 10000 4348.8 0 0 0.766 0 0 
+45.5 100 100 1522.8 3.382 10000 4769.2 0 0 0.518 0 0 
+
+
+C01 Fri Oct 21 16:23:08 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 10 61.5 1.244 10000 625.8 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 10 122.1 3.297 10000 51.2 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 10 188.8 6.086 10000 147.1 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 10 262.6 10.009 10000 956.7 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 10 304.9 13.798 10000 187.8 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C02 Fri Oct 21 16:32:02 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 30 19.9 1.132 10000 835.2 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 30 39.1 3.152 10000 587 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 30 60.1 6.16 10000 432.3 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 30 83.2 9.738 10000 125.1 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 30 100.5 14.054 10000 140.9 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C03 Fri Oct 21 16:40:35 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 40 168.1 1.317 10000 555.3 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 40 339.1 3.303 10000 1113.2 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 40 509.8 6.132 10000 2508.4 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 40 710.9 9.626 10000 2069.2 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 40 842.8 13.409 10000 2671.9 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C01 Fri Oct 21 16:56:38 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 10 61.5 1.215 10000 625.8 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 10 122.1 3.308 10000 51.2 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 10 188.8 6.055 10000 147.1 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 10 262.6 9.981 10000 956.7 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 10 304.9 13.804 10000 187.8 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C02 Fri Oct 21 17:05:27 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 30 19.9 1.097 10000 835.2 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 30 39.1 3.093 10000 587 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 30 60.1 6.104 10000 432.3 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 30 83.2 9.793 10000 125.1 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 30 100.5 13.995 10000 140.9 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C03 Fri Oct 21 17:13:54 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 40 168.1 1.262 10000 555.3 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 40 339.1 3.291 10000 1113.2 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 40 509.8 6.058 10000 2508.4 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 40 710.9 9.608 10000 2069.2 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 40 842.8 13.245 10000 2671.9 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C04 Fri Oct 21 17:22:40 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 65.5 1.292 10000 539.7 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 100 127.9 3.514 10000 1166.7 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 100 197 6.677 10000 2366.1 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 100 272.1 10.45 10000 2048.4 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 100 327.1 14.841 10000 1815.3 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C05 Fri Oct 21 17:31:36 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 548.8 1.311 10000 10.3 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 100 1087.7 3.558 10000 1858.2 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 100 1665.2 6.74 10000 3029.8 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 100 2308.3 11.195 10000 3091.2 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 100 2701.7 15.18 10000 3181.6 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C06 Fri Oct 21 17:41:08 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 300 176.6 1.377 10000 1477.1 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 300 340 3.788 10000 3400.6 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 300 526.2 7.234 10000 4964.4 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 300 724.7 11.385 10000 2266.1 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 300 872.2 15.795 10000 4471.3 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C07 Fri Oct 21 17:50:42 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 504.1 1.753 10000 501.2 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 100 1062.7 5.505 10000 72.6 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 100 1547.3 11.483 10000 1278.1 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 100 2230.2 19.288 10000 463.4 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 100 2657.7 29.919 10000 1701.1 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C08 Fri Oct 21 18:05:34 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 470 1.283 10000 2946.4 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 100 979 3.436 10000 3113.8 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 100 1424.2 6.2 10000 3390.4 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 100 1996.3 9.585 10000 4729.9 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 100 2455.5 13.485 10000 4171 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C09 Fri Oct 21 18:14:25 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 1106.8 1.746 10000 501.4 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 100 2191.5 5.588 10000 2.8 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 100 3410.4 11.992 10000 2.2 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 100 4588.1 21.305 10000 2.1 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 100 5434.9 29.543 10000 4.2 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C10 Fri Oct 21 18:29:39 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 359.7 1.187 10000 519.3 0 4.53633556444e-316 1.17709123528e-312 -1073746312 0 
+15.5 40 100 682.5 3.267 10000 2368.9 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+25.5 60 100 951.6 5.895 10000 1218 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+35.5 80 100 1232.7 9.313 10000 2492.3 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+45.5 100 100 1532.2 13.038 10000 4115.4 0 4.53634e-316 1.17709e-312 -1.07375e+09 0 
+
+
+C10 Sun Oct 23 19:55:32 2005
+
+[Solver] instFirst 41 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+45.5 100 100 1533.9 13.533 10000 4052.4 1.27319685759e-313 0 1.64126188851e-307 0 -12488 
+
+
+C10 Sun Oct 23 19:58:46 2005
+
+[Solver] instFirst 41 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+45.5 100 100 1530.8 13.563 10000 5366.2 1.27319685759e-313 0 1.64126188851e-307 0 -12488 
+
+
+C10 Sun Oct 23 20:06:38 2005
+
+[Solver] instFirst 41 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 1.5 0.1  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+45.5 100 100 1533.7 13.47 10000 3123.5 
+
+
+C10 Sun Oct 23 20:16:15 2005
+
+[Solver] instFirst 41 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 1 0  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+45.5 100 100 1540.7 13.301 10000 5025.8 
+
+
+C10 Sun Oct 23 20:20:13 2005
+
+[Solver] instFirst 41 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.5  BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+45.5 100 100 1538.6 13.674 10000 5543 
+
+
+C01 Mon Oct 24 10:13:31 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 10 61.5 1.137 10000 645.6 
+15.5 40 10 122 3.266 10000 473.2 
+25.5 60 10 188.7 6.129 10000 123.6 
+35.5 80 10 262.6 10.215 10000 474.5 
+45.5 100 10 304.9 14.148 10000 513.6 
+
+
+C02 Mon Oct 24 10:22:30 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 30 19.9 1.02 10000 432 
+15.5 40 30 39.2 3.014 10000 127 
+25.5 60 30 60.2 6.03 10000 211.8 
+35.5 80 30 83.2 9.625 10000 172.4 
+45.5 100 30 100.5 13.781 10000 109.8 
+
+
+C03 Mon Oct 24 10:30:49 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 40 167.8 1.201 10000 1824.9 
+15.5 40 40 337.4 3.233 10000 1133.4 
+25.5 60 40 509.6 6.116 10000 2751.7 
+35.5 80 40 711.1 9.853 10000 2040.9 
+45.5 100 40 842.7 13.664 10000 3164.6 
+
+
+C04 Mon Oct 24 10:39:34 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 65.2 1.201 10000 3482.8 
+15.5 40 100 127.5 3.397 10000 3471.6 
+25.5 60 100 197.3 6.707 10000 2842.1 
+35.5 80 100 272 10.658 10000 2781 
+45.5 100 100 326.8 15.121 10000 3523.9 
+
+
+C05 Mon Oct 24 10:48:30 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 548.5 1.239 10000 607.9 
+15.5 40 100 1090.6 3.499 10000 2869.5 
+25.5 60 100 1667 6.871 10000 2064.4 
+35.5 80 100 2306.9 11.591 10000 3187 
+45.5 100 100 2704 15.929 10000 4811.4 
+
+
+C06 Mon Oct 24 10:58:06 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 300 175.1 1.331 10000 1768.8 
+15.5 40 300 339.2 3.749 10000 5966.4 
+25.5 60 300 526 7.384 10000 5077.1 
+35.5 80 300 723.6 11.699 10000 3249.9 
+45.5 100 300 870.6 16.291 10000 4370.5 
+
+
+C07 Mon Oct 24 11:07:41 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 509.6 1.699 10000 1.2 
+15.5 40 100 1063.6 5.617 10000 40.9 
+25.5 60 100 1547.8 12.125 10000 837.4 
+35.5 80 100 2228.1 20.729 10000 667.4 
+45.5 100 100 2662.2 32.752 10000 1968 
+
+
+C08 Mon Oct 24 11:23:11 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 469.4 1.222 10000 937.5 
+15.5 40 100 976 3.389 10000 4162 
+25.5 60 100 1423.4 6.265 10000 4041.4 
+35.5 80 100 1996.9 9.809 10000 4659.3 
+45.5 100 100 2454.6 13.971 10000 3666 
+
+
+C09 Mon Oct 24 11:32:16 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 1109.8 1.704 10000 2.1 
+15.5 40 100 2191.5 5.772 10000 2.8 
+25.5 60 100 3410.4 12.7 10000 2.6 
+35.5 80 100 4588.1 22.835 10000 1.5 
+45.5 100 100 5434.9 31.829 10000 2.7 
+
+
+C10 Mon Oct 24 11:48:10 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 3 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 359.4 1.131 10000 1692 
+15.5 40 100 681.7 3.187 10000 2789.9 
+25.5 60 100 949.4 5.903 10000 4390.2 
+35.5 80 100 1230 9.534 10000 2922.7 
+45.5 100 100 1532.3 13.546 10000 5194.4 
+
+
+C01 Mon Oct 24 12:07:25 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 4 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 10 61.4 1.156 10000 2061.7 
+15.5 40 10 122.1 3.275 10000 61.6 
+25.5 60 10 188.8 6.182 10000 181.3 
+35.5 80 10 262.6 10.238 10000 838.9 
+45.5 100 10 304.9 14.166 10000 138.3 
+
+
+C02 Mon Oct 24 12:16:22 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 4 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 30 19.9 1.023 10000 912.8 
+15.5 40 30 39.2 3.069 10000 83.7 
+25.5 60 30 60.2 6.094 10000 188.4 
+35.5 80 30 83.2 9.69 10000 190.1 
+45.5 100 30 100.5 13.856 10000 127.4 
+
+
+C03 Mon Oct 24 12:24:36 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 4 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 40 167.3 1.205 10000 1251.7 
+15.5 40 40 337.2 3.197 10000 2879.4 
+25.5 60 40 509.2 6.126 10000 2339.3 
+35.5 80 40 711.1 9.853 10000 1641.8 
+45.5 100 40 842.3 13.708 10000 3630.3 
+
+
+C04 Mon Oct 24 12:33:10 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 4 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 65 1.224 10000 2084.7 
+15.5 40 100 127.7 3.394 10000 2916 
+25.5 60 100 197.1 6.703 10000 1803.4 
+35.5 80 100 271.8 10.602 10000 4325.9 
+45.5 100 100 326.8 15.248 10000 2845.3 
+
+
+C05 Mon Oct 24 12:41:57 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 4 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 548.2 1.24 10000 457.4 
+15.5 40 100 1089.7 3.481 10000 2636.8 
+25.5 60 100 1665.2 6.882 10000 3567.9 
+35.5 80 100 2304.8 11.57 10000 2280.4 
+45.5 100 100 2699.9 15.765 10000 3969 
+
+
+C06 Mon Oct 24 12:51:23 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 4 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 300 175.6 1.319 10000 2663.5 
+15.5 40 300 338.9 3.732 10000 4153.1 
+25.5 60 300 524.8 7.329 10000 4360.5 
+35.5 80 300 726 11.698 10000 5280.2 
+45.5 100 300 870.1 16.359 10000 5016.9 
+
+
+C07 Mon Oct 24 13:00:51 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 4 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 508.3 1.725 10000 151.2 
+15.5 40 100 1062.4 5.707 10000 38.8 
+25.5 60 100 1545.2 11.989 10000 1515.1 
+35.5 80 100 2228.6 20.553 10000 1021.7 
+45.5 100 100 2655.9 32.248 10000 2229.6 
+
+
+C08 Mon Oct 24 13:16:00 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 4 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 471.8 1.209 10000 2692 
+15.5 40 100 976.7 3.373 10000 5174.6 
+25.5 60 100 1419.7 6.232 10000 5272.8 
+35.5 80 100 1996.5 9.82 10000 2907.2 
+45.5 100 100 2456.3 13.956 10000 5900.4 
+
+
+C09 Mon Oct 24 13:24:47 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 4 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 1109.8 1.667 10000 1.9 
+15.5 40 100 2191.5 5.741 10000 2.1 
+25.5 60 100 3410.4 12.66 10000 2.8 
+35.5 80 100 4588.1 22.865 10000 1.5 
+45.5 100 100 5434.9 31.912 10000 2.6 
+
+
+C10 Mon Oct 24 13:40:30 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 4 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 357.9 1.164 10000 2324.2 
+15.5 40 100 681.8 3.245 10000 2793.5 
+25.5 60 100 950.6 5.85 10000 4778.4 
+35.5 80 100 1230.2 9.52 10000 3558.3 
+45.5 100 100 1534.4 13.569 10000 3924.3 
+
+
+C01 Mon Oct 24 14:12:29 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 1500 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 10 61.8 1.171 10000 197.2 
+
+
+C01 Mon Oct 24 14:13:53 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 10 61.8 1.189 10000 197.2 
+15.5 40 10 122.1 3.298 10000 96.2 
+25.5 60 10 188.8 6.19 10000 316.5 
+35.5 80 10 262.6 10.175 10000 274.9 
+45.5 100 10 305 14.121 10000 930.8 
+
+
+C02 Mon Oct 24 14:22:37 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 30 19.8 1.036 10000 953.3 
+15.5 40 30 39.1 3.109 10000 712 
+25.5 60 30 60.2 6.214 10000 401.9 
+35.5 80 30 83.2 10.012 10000 226.6 
+45.5 100 30 100.5 14.154 10000 106.8 
+
+
+C03 Mon Oct 24 14:30:56 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 40 168 1.206 10000 713.8 
+15.5 40 40 336.9 3.225 10000 1153.9 
+25.5 60 40 509.3 6.18 10000 1426.6 
+35.5 80 40 711 9.859 10000 2515.9 
+45.5 100 40 841.8 13.734 10000 3319.4 
+
+
+C04 Mon Oct 24 14:39:29 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 65.2 1.242 10000 938.9 
+15.5 40 100 127.3 3.519 10000 3675.7 
+25.5 60 100 196.9 6.786 10000 3552.2 
+35.5 80 100 271.9 10.881 10000 3687.3 
+45.5 100 100 326.7 15.806 10000 2287.2 
+
+
+C05 Mon Oct 24 14:48:28 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 547.3 1.248 10000 513.4 
+15.5 40 100 1086 3.45 10000 896.7 
+25.5 60 100 1661.3 6.791 10000 796.7 
+35.5 80 100 2299.4 11.192 10000 2489.3 
+45.5 100 100 2682.4 15.163 10000 2955.4 
+
+
+C06 Mon Oct 24 14:57:42 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 300 176.3 1.307 10000 1661.7 
+15.5 40 300 339.2 3.806 10000 3547.6 
+25.5 60 300 524 7.447 10000 4535.1 
+35.5 80 300 722.4 11.754 10000 6218.8 
+45.5 100 300 869.4 16.621 10000 3772.4 
+
+
+C07 Mon Oct 24 15:07:12 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 506.3 1.68 10000 3.3 
+15.5 40 100 1064.1 5.502 10000 34 
+25.5 60 100 1541.6 11.554 10000 538 
+35.5 80 100 2227.3 19.621 10000 2089.2 
+45.5 100 100 2653.4 30.367 10000 816.5 
+
+
+C08 Mon Oct 24 15:21:46 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 470.9 1.234 10000 1613.1 
+15.5 40 100 972.7 3.433 10000 2367.3 
+25.5 60 100 1417.9 6.353 10000 3873.6 
+35.5 80 100 1991.5 9.922 10000 3143.2 
+45.5 100 100 2448.4 14.308 10000 4861.7 
+
+
+C09 Mon Oct 24 15:30:35 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 1106.8 1.635 10000 1.9 
+15.5 40 100 2191.5 5.652 10000 2.1 
+25.5 60 100 3410.4 12.28 10000 2.6 
+35.5 80 100 4588.1 22.037 10000 1.6 
+45.5 100 100 5434.9 31.129 10000 3.4 
+
+
+C10 Mon Oct 24 15:45:54 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 10 [SVC_2DSPP] MaxTime 3 MaxIter 10000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 5000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 358.6 1.142 10000 1004.3 
+15.5 40 100 679 3.224 10000 2651.6 
+25.5 60 100 947.6 5.951 10000 2835.7 
+35.5 80 100 1226.4 9.464 10000 4631.6 
+45.5 100 100 1530.5 13.456 10000 5031.6 
+
+
+C01 Thu Oct 27 16:26:32 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 10 61.7 26201 616446 0.314 120 5.7 61.8 61.7 61.7 61.7 61.7 56.3 
+
+
+C01 Thu Oct 27 16:59:52 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 10 61.7 26201 623968 0.314 120 5.7 61.8 61.7 61.7 61.7 61.7 56.3 
+
+
+C01 Thu Oct 27 17:38:17 2005
+
+[Solver] instFirst 4 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+7 20 10 61.2857 37393 622394 6.49 120 5 61.4286 61.2857 61.2857 61.2857 61.2857 61.2857 53.5714 
+
+
+C01 Thu Oct 27 18:34:55 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 10 61.7 26201 629370 4.64 120 5.7 61.8 61.8 61.7 61.7 61.7 61.7 
+15.5 40 10 121.9 1194 231799 0.602 120 4.3 122 121.9 121.9 121.9 121.9 121.9 
+25.5 60 10 188.7 887 127504 0.875 120 4.8 188.8 188.7 188.7 188.7 188.7 188.7 
+35.5 80 10 262.6 3428 77929 4.96 120 5.7 263 262.7 262.6 262.6 262.6 262.6 
+45.5 100 10 304.9 5355 55986 11.3 120 1.4 305.4 305.1 304.9 304.9 304.9 304.9 
+
+
+C02 Thu Oct 27 20:58:17 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 30 19.8 3937 728714 0.668 120 0.58 19.8 19.8 19.8 19.8 19.8 19.8 
+15.5 40 30 39.1 703 241285 0.359 120 0 39.1 39.1 39.1 39.1 39.1 39.1 
+25.5 60 30 60.1 1363 122211 1.34 120 0 60.2 60.1 60.1 60.1 60.1 60.1 
+35.5 80 30 83.2 146 76453 0.209 120 0 83.2 83.2 83.2 83.2 83.2 83.2 
+45.5 100 30 100.5 128 54263 0.263 120 0 100.5 100.5 100.5 100.5 100.5 100.5 
+
+
+C03 Thu Oct 27 23:16:47 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 40 166.4 46736 626347 8.61 120 8.8 166.6 166.6 166.4 166.4 166.4 166.4 
+15.5 40 40 336.1 33663 232723 17.9 120 8.6 337.4 336.3 336.1 336.1 336.1 336.1 
+25.5 60 40 509 22902 124826 22.3 120 5.4 510.6 509.2 509 509 509 509 
+35.5 80 40 710.8 26940 79068 40.6 120 6.5 712.7 712.1 710.8 710.8 710.8 710.8 
+45.5 100 40 841.5 14077 56356 29.5 120 4.4 843.2 842.5 841.5 841.5 841.5 841.5 
+
+
+C04 Fri Oct 28 01:36:11 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 64.4 36269 626468 7.03 120 4.8 64.8 64.4 64.4 64.4 64.4 64.4 
+15.5 40 100 126.7 42913 218448 23.9 120 2.2 127.3 126.9 126.7 126.7 126.7 126.7 
+25.5 60 100 196 44353 112536 47.4 120 1.5 197.1 196.7 196 196 196 196 
+35.5 80 100 271.4 12755 71784 21.2 120 1.5 272.3 271.7 271.4 271.4 271.4 271.4 
+45.5 100 100 326.2 16506 49780 40.3 120 1.2 327.4 326.9 326.2 326.2 326.2 326.2 
+
+
+C05 Fri Oct 28 03:51:58 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 540.9 144108 618906 27.2 120 13 544.2 541.5 540.9 540.9 540.9 540.9 
+15.5 40 100 1077.8 24192 220902 12.7 120 11 1086.2 1078.8 1077.8 1077.8 1077.8 1077.8 
+25.5 60 100 1653.1 17801 118968 17.4 120 8.8 1657.8 1653.7 1653.1 1653.1 1653.1 1653.1 
+35.5 80 100 2293.9 15756 75105 24.5 120 9.4 2296.6 2295.7 2293.9 2293.9 2293.9 2293.9 
+45.5 100 100 2664 27189 54990 59.2 120 5.1 2671.6 2668.6 2664 2664 2664 2664 
+
+
+C06 Fri Oct 28 06:11:00 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 300 171 242927 591810 47.3 120 7 173.6 172.2 171 171 171 171 
+15.5 40 300 334.6 72814 207498 42.9 120 3.4 337.2 335.4 334.6 334.6 334.6 334.6 
+25.5 60 300 520 43470 109410 47.9 120 2.9 522.5 521.4 520 520 520 520 
+35.5 80 300 717.5 37619 69618 65.4 120 2.5 722.4 719.9 717.5 717.5 717.5 717.5 
+45.5 100 300 864.9 19783 49467 48.2 120 2.4 868.3 866 864.9 864.9 864.9 864.9 
+
+
+C07 Fri Oct 28 08:26:34 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 501.9 2006 512414 0.44 120 18 501.9 501.9 501.9 501.9 501.9 501.9 
+15.5 40 100 1061.3 4060 172497 2.57 120 16 1062.2 1061.3 1061.3 1061.3 1061.3 1061.3 
+25.5 60 100 1532.1 11032 89260 14 120 14 1533.3 1532.9 1532.1 1532.1 1532.1 1532.1 
+35.5 80 100 2223 8060 53823 16.9 120 15 2223.7 2223.2 2223 2223 2223 2223 
+45.5 100 100 2645.6 5410 36779 17.3 120 13 2646.4 2646.2 2645.6 2645.6 2645.6 2645.6 
+
+
+C08 Fri Oct 28 10:42:21 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 464.6 149800 618812 29.9 120 6.8 468.1 465.2 464.6 464.6 464.6 464.6 
+15.5 40 100 963.1 83565 223074 45.1 120 4.4 970.2 966 963.1 963.1 963.1 963.1 
+25.5 60 100 1410.1 70002 117731 71.1 120 3.6 1419.2 1414.8 1410.1 1410.1 1410.1 1410.1 
+35.5 80 100 1976.8 31801 77318 49.4 120 3.5 1984.7 1980.9 1976.8 1976.8 1976.8 1976.8 
+45.5 100 100 2435.2 27866 54395 61.7 120 3 2447.2 2438.5 2435.2 2435.2 2435.2 2435.2 
+
+
+C09 Fri Oct 28 13:06:06 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 1106.8 2 509484 0 120 24 1106.8 1106.8 1106.8 1106.8 1106.8 1106.8 
+15.5 40 100 2190.6 82 164795 0.051 120 24 2190.6 2190.6 2190.6 2190.6 2190.6 2190.6 
+25.5 60 100 3410.4 2 78519 0 120 25 3410.4 3410.4 3410.4 3410.4 3410.4 3410.4 
+35.5 80 100 4588.1 2 45922 0.002 120 26 4588.1 4588.1 4588.1 4588.1 4588.1 4588.1 
+45.5 100 100 5434.9 4 33598 0.011 120 22 5434.9 5434.9 5434.9 5434.9 5434.9 5434.9 
+
+
+C10 Fri Oct 28 15:21:16 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 [SVC_2DSPP] MaxTime 120 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 1 0.1 0.1 0.1 0  p_choose 0.3 0.7  
+5.5 20 100 355 144023 667362 27.1 120 8.2 357.5 355.6 355 355 355 355 
+15.5 40 100 673 46886 238274 23.7 120 6.2 674.6 673.2 673 673 673 673 
+25.5 60 100 943.2 58540 131925 53.6 120 4.7 948.3 945.7 943.2 943.2 943.2 943.2 
+35.5 80 100 1220.1 26608 83212 38.3 120 4 1226.2 1222.2 1220.1 1220.1 1220.1 1220.1 
+45.5 100 100 1525.8 23609 59890 47.6 120 3.7 1530.7 1527.8 1525.8 1525.8 1525.8 1525.8 
+
+
+C01 Tue Nov  1 20:08:34 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pPermutateHole 0.96 pBubbleHole 0.8 pInvertHole 0.04 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 10 61.4 3074 2549740 0.315 271 5.1 61.4 61.4 61.4 61.4 61.4 61.4 
+15.5 40 10 121.9 8081 1032041 2.2 272 4.3 122 121.9 121.9 121.9 121.9 121.9 
+25.5 60 10 188.5 33065 587808 15.3 271 4.7 188.7 188.6 188.5 188.5 188.5 188.5 
+35.5 80 10 262.6 5908 410770 4.14 300 5.7 262.8 262.7 262.6 262.6 262.6 262.6 
+45.5 100 10 304.9 1826 245678 1.85 241 1.4 305.1 304.9 304.9 304.9 304.9 304.9 
+
+
+C02 Wed Nov  2 01:34:41 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pPermutateHole 0.96 pBubbleHole 0.8 pInvertHole 0.04 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 30 19.8 632 303449 0.065 30 0.58 19.8 19.8 19.8 19.8 19.8 19.8 
+15.5 40 30 39.1 253 254 0.07 0 0 39.1 39.1 39.1 39.1 39.1 39.1 
+25.5 60 30 60.1 1339 1340 0.656 1 0 60.2 60.1 60.1 60.1 60.1 60.1 
+35.5 80 30 83.2 95 96 0.068 0 0 83.2 83.2 83.2 83.2 83.2 83.2 
+45.5 100 30 100.5 58 60 0.055 0 0 100.5 100.5 100.5 100.5 100.5 100.5 
+
+
+C03 Wed Nov  2 03:08:20 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pPermutateHole 0.96 pBubbleHole 0.8 pInvertHole 0.04 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 200 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0.1 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 40 164.4 185341 2718660 20.9 300 7.5 164.8 164.8 164.4 164.4 164.4 164.4 
+15.5 40 40 334 101332 1090832 27.7 300 7.8 334.7 334.1 334 334 334 334 
+25.5 60 40 506.8 62329 609446 30.3 300 5 508.3 507.2 506.8 506.8 506.8 506.8 
+35.5 80 40 709.7 111005 402822 82.8 300 6.3 710.8 710.2 709.7 709.7 709.7 709.7 
+45.5 100 40 839.7 68979 285081 71.5 300 4.2 841.7 840.4 839.7 839.7 839.7 839.7 
+
+
+C01 Wed Nov  2 19:01:26 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.8  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 10 61.4 4050 2433226 0.455 271 5.1 61.4 61.4 61.4 61.4 61.4 61.4 
+15.5 40 10 121.9 4053 990439 1.15 271 4.3 122 121.9 121.9 121.9 121.9 121.9 
+25.5 60 10 188.5 26998 575492 12.6 272 4.7 188.8 188.7 188.5 188.5 188.5 188.5 
+35.5 80 10 262.6 259 408919 0.184 300 5.7 262.6 262.6 262.6 262.6 262.6 262.6 
+45.5 100 10 304.8 5843 245978 5.85 240 1.4 305.2 304.8 304.8 304.8 304.8 304.8 
+
+
+C02 Thu Nov  3 00:09:42 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.8  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 30 19.8 611 294278 0.06 30 0.58 19.8 19.8 19.8 19.8 19.8 19.8 
+15.5 40 30 39.1 268 269 0.07 0 0 39.1 39.1 39.1 39.1 39.1 39.1 
+25.5 60 30 60.1 948 949 0.481 0 0 60.1 60.1 60.1 60.1 60.1 60.1 
+35.5 80 30 83.2 99 100 0.075 0 0 83.2 83.2 83.2 83.2 83.2 83.2 
+45.5 100 30 100.5 71 72 0.07 0 0 100.5 100.5 100.5 100.5 100.5 100.5 
+
+
+C03 Thu Nov  3 01:37:46 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.8  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 40 164.3 269029 2634823 31.8 300 7.4 164.7 164.6 164.3 164.3 164.3 164.3 
+15.5 40 40 334.1 131309 1066801 37.1 300 7.9 334.7 334.2 334.1 334.1 334.1 334.1 
+25.5 60 40 506.9 52579 602223 26.5 300 5 508.6 507.3 506.9 506.9 506.9 506.9 
+35.5 80 40 709.7 35977 401809 27.2 300 6.3 710.7 710.2 709.7 709.7 709.7 709.7 
+45.5 100 40 839.8 71967 287091 73.6 300 4.2 841.3 840.6 839.8 839.8 839.8 839.8 
+
+
+C01 Thu Nov  3 17:46:01 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 10 61.4 10080 1282393 2 273 5.1 61.5 61.4 61.4 61.4 61.4 61.4 
+15.5 40 10 121.9 5142 535035 2.65 272 4.3 122.1 121.9 121.9 121.9 121.9 121.9 
+25.5 60 10 188.5 44889 322302 38.1 272 4.7 189 188.7 188.5 188.5 188.5 188.5 
+35.5 80 10 262.6 1114 241241 1.33 301 5.7 262.7 262.6 262.6 262.6 262.6 262.6 
+45.5 100 10 304.9 531 146291 0.872 241 1.4 304.9 304.9 304.9 304.9 304.9 304.9 
+
+
+C02 Thu Nov  3 20:52:10 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 30 19.8 488 178454 0.079 30 0.58 19.8 19.8 19.8 19.8 19.8 19.8 
+15.5 40 30 39.1 123 124 0.056 0 0 39.1 39.1 39.1 39.1 39.1 39.1 
+25.5 60 30 60.1 652 652 0.515 1 0 60.1 60.1 60.1 60.1 60.1 60.1 
+35.5 80 30 83.2 101 102 0.113 0 0 83.2 83.2 83.2 83.2 83.2 83.2 
+45.5 100 30 100.5 92 93 0.139 0 0 100.5 100.5 100.5 100.5 100.5 100.5 
+
+
+C03 Thu Nov  3 21:42:28 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 40 164 286039 1435477 60.3 301 7.2 165 164.6 164 164 164 164 
+15.5 40 40 334.1 76435 606888 38.4 301 7.9 335 334.4 334.1 334.1 334.1 334.1 
+25.5 60 40 506.7 82250 352628 70.9 301 4.9 508.5 507.8 506.7 506.7 506.7 506.7 
+35.5 80 40 709.8 34435 244978 43.2 301 6.3 710.6 710.4 709.8 709.8 709.8 709.8 
+45.5 100 40 839.8 61869 182086 101 301 4.2 841.5 840.8 839.8 839.8 839.8 839.8 
+
+
+C04 Fri Nov  4 01:53:15 2005
+
+[Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 100 63.5 171939 1585206 33 301 3.4 64.3 63.8 63.5 63.5 63.5 63.5 
+15.5 40 100 125.6 117585 614893 57.3 301 1.3 126.5 126.1 125.6 125.6 125.6 125.6 
+25.5 60 100 195.4 58589 344539 51.2 301 1.2 196.1 195.7 195.4 195.4 195.4 195.4 
+35.5 80 100 270.2 40611 232831 51.8 301 1.1 271 270.7 270.2 270.2 270.2 270.2 
+45.5 100 100 325 29923 171977 52.7 301 0.88 326.2 325.5 325 325 325 325 
+
+
+C01 Fri Nov  4 14:14:21 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.8  pChangePBHole 1 [SVC_2DSPP] MaxTime 500 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 10 61.4 4050 2140153 0.808 452 5.1 61.5 61.4 61.4 61.4 61.4 61.4 
+15.5 40 10 121.9 4053 897265 2.07 452 4.3 122.1 121.9 121.9 121.9 121.9 121.9 
+25.5 60 10 188.5 26998 549153 22.2 453 4.7 188.8 188.7 188.5 188.5 188.5 188.5 
+35.5 80 10 262.6 259 405468 0.308 501 5.7 262.6 262.6 262.6 262.6 262.6 262.6 
+45.5 100 10 304.8 5843 246640 9.52 401 1.4 305.2 304.9 304.8 304.8 304.8 304.8 
+
+
+C02 Fri Nov  4 19:24:02 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.8  pChangePBHole 1 [SVC_2DSPP] MaxTime 500 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 30 19.8 611 302301 0.097 50 0.58 19.8 19.8 19.8 19.8 19.8 19.8 
+15.5 40 30 39.1 268 269 0.121 0 0 39.1 39.1 39.1 39.1 39.1 39.1 
+25.5 60 30 60.1 948 949 0.751 1 0 60.2 60.1 60.1 60.1 60.1 60.1 
+35.5 80 30 83.2 99 100 0.112 0 0 83.2 83.2 83.2 83.2 83.2 83.2 
+45.5 100 30 100.5 71 72 0.106 0 0 100.5 100.5 100.5 100.5 100.5 100.5 
+
+
+C03 Fri Nov  4 20:47:42 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.8  pChangePBHole 1 [SVC_2DSPP] MaxTime 500 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 40 164.3 269029 2404971 58.2 501 7.4 164.9 164.7 164.3 164.3 164.3 164.3 
+15.5 40 40 334.2 29309 1004429 14.5 501 7.9 334.7 334.6 334.2 334.2 334.2 334.2 
+25.5 60 40 506.9 52579 592082 44.9 501 5 509 507.8 506.9 506.9 506.9 506.9 
+35.5 80 40 709.7 35977 408096 44.4 501 6.3 711 710.5 709.7 709.7 709.7 709.7 
+45.5 100 40 839.8 71967 301837 118 501 4.2 841.7 840.7 840 839.8 839.8 839.8 
+
+
+C04 Sat Nov  5 03:44:59 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.8  pChangePBHole 1 [SVC_2DSPP] MaxTime 500 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 100 63.5 271818 2600379 52.7 501 3.4 64.2 63.9 63.5 63.5 63.5 63.5 
+15.5 40 100 125.6 251580 1006614 127 501 1.3 126.6 126.2 125.8 125.6 125.6 125.6 
+25.5 60 100 195.4 32268 564323 28.5 501 1.2 196.1 195.6 195.4 195.4 195.4 195.4 
+35.5 80 100 270 40466 380536 52.9 501 1 271.2 270.6 270 270 270 270 
+45.5 100 100 324.8 94299 282620 169 501 0.82 325.9 325.5 325.1 324.8 324.8 324.8 
+
+
+C05 Sat Nov  5 10:42:27 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.8  pChangePBHole 1 [SVC_2DSPP] MaxTime 500 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 100 536.9 66004 2413819 14.1 501 12 538.2 537.7 536.9 536.9 536.9 536.9 
+15.5 40 100 1075.6 74987 972625 36.8 501 11 1076.7 1076.6 1076.5 1075.6 1075.6 1075.6 
+25.5 60 100 1648.3 37133 562580 32.2 501 8.5 1650.3 1648.5 1648.3 1648.3 1648.3 1648.3 
+35.5 80 100 2289.9 27519 373091 35.3 501 9.2 2293.8 2290.8 2289.9 2289.9 2289.9 2289.9 
+45.5 100 100 2651.5 107507 290099 182 501 4.6 2658.8 2656.7 2652.3 2651.5 2651.5 2651.5 
+
+
+C01 Tue Nov  8 18:23:26 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.01 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 10 61.4 15047 1285684 2.99 274 5.1 61.5 61.4 61.4 61.4 61.4 61.4 
+15.5 40 10 121.8 20159 535288 10.4 272 4.2 122.1 121.9 121.8 121.8 121.8 121.8 
+25.5 60 10 188.5 26398 324116 22 271 4.7 188.8 188.6 188.5 188.5 188.5 188.5 
+35.5 80 10 262.6 2088 240048 2.45 301 5.7 262.7 262.6 262.6 262.6 262.6 262.6 
+45.5 100 10 304.9 531 147430 0.863 241 1.4 304.9 304.9 304.9 304.9 304.9 304.9 
+
+
+C02 Tue Nov  8 21:29:24 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.01 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 30 19.8 483 182008 0.078 30 0.58 19.8 19.8 19.8 19.8 19.8 19.8 
+15.5 40 30 39.1 129 130 0.057 0 0 39.1 39.1 39.1 39.1 39.1 39.1 
+25.5 60 30 60.1 596 597 0.463 0 0 60.1 60.1 60.1 60.1 60.1 60.1 
+35.5 80 30 83.2 157 158 0.177 0 0 83.2 83.2 83.2 83.2 83.2 83.2 
+45.5 100 30 100.5 131 132 0.199 0 0 100.5 100.5 100.5 100.5 100.5 100.5 
+
+
+C03 Tue Nov  8 22:19:41 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.01 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 40 164.1 292104 1444857 63.4 301 7.3 164.9 164.7 164.1 164.1 164.1 164.1 
+15.5 40 40 334 71949 599772 36.4 301 7.8 335 334.5 334 334 334 334 
+25.5 60 40 506.7 68714 350882 59.3 301 4.9 508.1 507.4 506.7 506.7 506.7 506.7 
+35.5 80 40 709.8 24245 242406 30.7 301 6.3 710.8 710.3 709.8 709.8 709.8 709.8 
+45.5 100 40 839.6 54452 179141 90.4 301 4.2 841.8 840.6 839.6 839.6 839.6 839.6 
+
+
+C04 Wed Nov  9 02:30:27 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.01 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 100 63.6 222395 1556118 42 301 3.6 64.3 64.1 63.6 63.6 63.6 63.6 
+15.5 40 100 125.7 183753 597981 91.2 301 1.4 126.6 126.3 125.7 125.7 125.7 125.7 
+25.5 60 100 195.3 51944 335476 48.1 301 1.1 195.9 195.7 195.3 195.3 195.3 195.3 
+35.5 80 100 270 41686 227807 55.1 301 1 271 270.3 270 270 270 270 
+45.5 100 100 325 13355 167717 23.1 301 0.87 325.8 325.1 325 325 325 325 
+
+
+C05 Wed Nov  9 06:41:11 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.01 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 100 536.9 122004 1432346 25.6 301 12 538.8 538.2 536.9 536.9 536.9 536.9 
+15.5 40 100 1076.6 8588 572055 4.32 301 11 1076.8 1076.6 1076.6 1076.6 1076.6 1076.6 
+25.5 60 100 1648.4 44247 334578 37.9 301 8.5 1649.2 1648.6 1648.4 1648.4 1648.4 1648.4 
+35.5 80 100 2289.9 21936 221741 28.1 301 9.2 2291.9 2291 2289.9 2289.9 2289.9 2289.9 
+45.5 100 100 2651.7 48760 173447 82.8 301 4.6 2659.1 2656.4 2651.7 2651.7 2651.7 2651.7 
+
+
+C01 Wed Nov  9 11:54:09 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.01 pPermutateHole 0.8 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 10 61.4 3049 1276842 0.608 271 5.1 61.5 61.4 61.4 61.4 61.4 61.4 
+15.5 40 10 121.8 8841 533521 4.55 274 4.2 122 121.8 121.8 121.8 121.8 121.8 
+25.5 60 10 188.5 19760 325359 16.3 271 4.7 188.8 188.6 188.5 188.5 188.5 188.5 
+35.5 80 10 262.6 2028 240098 2.4 301 5.7 262.7 262.6 262.6 262.6 262.6 262.6 
+45.5 100 10 304.9 2154 147704 3.52 241 1.4 305.1 304.9 304.9 304.9 304.9 304.9 
+
+
+C02 Wed Nov  9 15:02:34 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.01 pPermutateHole 0.8 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 30 19.8 358 182559 0.054 30 0.58 19.8 19.8 19.8 19.8 19.8 19.8 
+15.5 40 30 39.1 344 345 0.153 0 0 39.1 39.1 39.1 39.1 39.1 39.1 
+25.5 60 30 60.1 11586 11588 9.21 9 0 60.2 60.2 60.1 60.1 60.1 60.1 
+35.5 80 30 83.2 128 129 0.142 0 0 83.2 83.2 83.2 83.2 83.2 83.2 
+45.5 100 30 100.5 107 108 0.163 0 0 100.5 100.5 100.5 100.5 100.5 100.5 
+
+
+C03 Wed Nov  9 15:54:25 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.01 pPermutateHole 0.8 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 40 164.5 53106 1448658 11.6 301 7.6 164.6 164.6 164.5 164.5 164.5 164.5 
+15.5 40 40 334 94954 605159 48.6 301 7.8 334.8 334.3 334 334 334 334 
+25.5 60 40 506.8 98350 352266 82.5 301 5 508.2 507.5 506.8 506.8 506.8 506.8 
+35.5 80 40 709.4 53780 242689 68.1 301 6.3 710.4 710.2 709.4 709.4 709.4 709.4 
+45.5 100 40 839.9 24913 178011 41.5 301 4.2 841.5 840.4 839.9 839.9 839.9 839.9 
+
+
+C04 Wed Nov  9 20:05:24 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.01 pPermutateHole 0.8 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 100 63.5 163020 1558510 31.8 301 3.4 64.4 63.9 63.5 63.5 63.5 63.5 
+15.5 40 100 125.8 132810 603460 65.5 301 1.5 126.6 126.3 125.8 125.8 125.8 125.8 
+25.5 60 100 195.3 50038 338660 44.4 301 1.1 196.2 195.7 195.3 195.3 195.3 195.3 
+35.5 80 100 270 24219 230946 31.3 301 1 270.6 270.3 270 270 270 270 
+45.5 100 100 325.1 19825 168269 35.6 301 0.91 326.2 325.6 325.1 325.1 325.1 325.1 
+
+
+C05 Thu Nov 10 00:16:09 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.01 pPermutateHole 0.8 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 10000000 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValuesResetPeriod 10000 Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 100 536.6 150007 1446717 31.8 301 12 539.1 538.4 536.6 536.6 536.6 536.6 
+15.5 40 100 1076.5 26450 578887 13.1 301 11 1076.7 1076.7 1076.5 1076.5 1076.5 1076.5 
+25.5 60 100 1647.6 85756 335998 73.9 301 8.4 1649.4 1649 1647.6 1647.6 1647.6 1647.6 
+35.5 80 100 2290.2 44980 220980 59.2 301 9.2 2292.1 2291.3 2290.2 2290.2 2290.2 2290.2 
+45.5 100 100 2653.6 30214 172698 51.4 301 4.7 2658.4 2655.8 2653.6 2653.6 2653.6 2653.6 
+
+
+C01 Thu Nov 10 18:39:12 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValReset 10000 0  Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 10 61.4 10080 1335094 1.96 273 5.1 61.5 61.4 61.4 61.4 61.4 61.4 
+15.5 40 10 121.9 5142 561002 2.53 272 4.3 122.1 121.9 121.9 121.9 121.9 121.9 
+25.5 60 10 188.5 44889 339712 35.8 272 4.7 189 188.7 188.5 188.5 188.5 188.5 
+35.5 80 10 262.6 1114 250336 1.27 301 5.7 262.7 262.6 262.6 262.6 262.6 262.6 
+45.5 100 10 304.9 531 154103 0.841 241 1.4 304.9 304.9 304.9 304.9 304.9 304.9 
+
+
+C02 Thu Nov 10 21:45:23 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValReset 10000 0  Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 30 19.8 488 185793 0.076 30 0.58 19.8 19.8 19.8 19.8 19.8 19.8 
+15.5 40 30 39.1 123 123 0.053 0 0 39.1 39.1 39.1 39.1 39.1 39.1 
+25.5 60 30 60.1 652 652 0.496 0 0 60.1 60.1 60.1 60.1 60.1 60.1 
+35.5 80 30 83.2 101 101 0.11 0 0 83.2 83.2 83.2 83.2 83.2 83.2 
+45.5 100 30 100.5 92 92 0.133 0 0 100.5 100.5 100.5 100.5 100.5 100.5 
+
+
+C03 Thu Nov 10 22:35:46 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValReset 10000 0  Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 40 164 286039 1503079 57.8 301 7.2 165 164.6 164 164 164 164 
+15.5 40 40 334.1 76435 626197 37.1 300 7.9 335 334.4 334.1 334.1 334.1 334.1 
+25.5 60 40 506.7 82250 367290 67.9 301 4.9 508.5 507.8 506.7 506.7 506.7 506.7 
+35.5 80 40 709.8 34435 250959 41.7 301 6.3 710.6 710.4 709.8 709.8 709.8 709.8 
+45.5 100 40 839.8 61869 184037 99.8 301 4.2 841.4 840.8 839.8 839.8 839.8 839.8 
+
+
+C04 Fri Nov 11 02:46:34 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValReset 10000 0  Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 100 63.5 171939 1599732 32.9 301 3.4 64.3 63.8 63.5 63.5 63.5 63.5 
+15.5 40 100 125.6 117585 623036 56.4 301 1.3 126.5 126.1 125.6 125.6 125.6 125.6 
+25.5 60 100 195.4 58589 349272 50.2 301 1.2 196.1 195.7 195.4 195.4 195.4 195.4 
+35.5 80 100 270.2 40611 237156 50.6 301 1.1 271 270.7 270.2 270.2 270.2 270.2 
+45.5 100 100 325 29923 173421 52.1 301 0.88 326.2 325.5 325 325 325 325 
+
+
+C05 Fri Nov 11 06:57:29 2005
+
+[BL] fImproved 1 pInvertShove 0.04 [Solver] instFirst 1 instLast 1000000 statPeriod 10 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangePTower 0.01 pInvertHole 0.04 pPermutateHole 0.96 pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 300 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValReset 10000 0  Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 100 536.6 160053 1499950 32.1 301 12 538.9 538.6 536.6 536.6 536.6 536.6 
+15.5 40 100 1075.9 58039 600834 29.4 301 11 1076.7 1076.6 1075.9 1075.9 1075.9 1075.9 
+25.5 60 100 1648.2 61521 348637 51 301 8.5 1650.6 1648.8 1648.2 1648.2 1648.2 1648.2 
+35.5 80 100 2290.4 43761 229774 54.9 301 9.2 2293.8 2291 2290.4 2290.4 2290.4 2290.4 
+45.5 100 100 2652.4 66986 178215 111 301 4.7 2660.2 2656.7 2652.4 2652.4 2652.4 2652.4 
+
+
+C01 Wed Nov 16 15:26:51 2005
+
+[BL] fImproved 1 pInvertShove 0.02 [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangeP_TIP 0.01 pInvertHole 0.01 0.04  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 600 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 MaxPerturb_RelVal 0.0001 ValReset 1000 19000  Decoder_Sub_BL 0 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 10 61.4 2299 2671563 0.443 542 5.1 61.4 61.4 61.4 61.4 
+
+
+C08 Wed Nov 16 23:04:04 2005
+
+[BL] fImproved 1 pInvertShove 0.01 0.1  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] Filling_FFD_KP 1 q2D 5 100  p_q2Dnew 1 pTower 0 0.4  pChangeP_TIP 0.01 pInvertHole 0.01 0.04  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  pChangePBHole 1 [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 1 NIterSVC 0 MaxPerturb_RelVal 0.0001 ValReset 1000 19000  Decoder_Sub_BL 1 corr2D_fLocalWaste 0 p_fLocalW_new 0 blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1 0  p_choose 0.6 0.6  
+5.5 20 100 459.9 4273278 13672379 105 360 5.7 463 461.2 459.9 
+15.5 40 100 961.1 2231692 5056042 158 360 4.2 966.5 964.9 961.1 
+25.5 60 100 1411.2 909673 2536479 127 360 3.7 1418.3 1415.4 1411.2 
+35.5 80 100 1978.5 788773 1664163 175 360 3.6 1986.6 1983.3 1978.5 
+
+
+C01 Tue Aug 30 16:54:32 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 10 61.4 1618 1967560 0.246 326 5.1 61.4 61.4 61.4 
+15.5 40 10 121.8 36838 838566 14.6 330 4.2 122 121.9 121.8 
+25.5 60 10 188.5 5530 508131 3.56 328 4.7 188.6 188.5 188.5 
+35.5 80 10 262.6 2734 383514 2.51 361 5.7 262.7 262.6 262.6 
+45.5 100 10 304.8 5118 237435 6.23 289 1.4 304.9 304.8 304.8 
+------------------ ave & max --------------------
+25.5 60 10 187.82 10367 787041 5.43 327 4.2 187.92 187.84 187.82 
+50 100 10 355 242976 2305930 96.5 362 16 355 355 355 
+
+
+C02 Tue Aug 30 20:38:44 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 30 19.8 557 292908 0.078 36 0.58 19.8 19.8 19.8 
+15.5 40 30 39.1 484 484 0.173 0 0 39.1 39.1 39.1 
+25.5 60 30 60.1 3432 3432 2.09 2 0 60.2 60.1 60.1 
+35.5 80 30 83.2 75 75 0.067 0 0 83.2 83.2 83.2 
+45.5 100 30 100.5 63 63 0.073 0 0 100.5 100.5 100.5 
+------------------ ave & max --------------------
+25.5 60 30 60.54 922 59393 0.496 8 0.12 60.56 60.54 60.54 
+50 100 30 114 32767 2923512 20 360 5.8 114 114 114 
+
+
+C03 Tue Aug 30 21:39:19 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 40 164.1 468477 2270259 74.1 361 7.3 164.9 164.5 164.1 
+15.5 40 40 333.8 48746 943073 19.5 361 7.8 334.3 334 333.8 
+25.5 60 40 506.3 72219 553370 47.8 361 4.8 507.5 506.7 506.3 
+35.5 80 40 709.5 29644 382702 28.8 361 6.3 710.2 709.7 709.5 
+45.5 100 40 839 46427 286036 58.5 361 4.1 840.2 839.6 839 
+------------------ ave & max --------------------
+25.5 60 40 510.54 133103 887088 45.7 361 6.1 511.42 510.9 510.54 
+50 100 40 1040 2341323 2525754 344 362 24 1040 1040 1040 
+
+
+C04 Wed Aug 31 02:40:13 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 63.6 269335 2500929 40.5 361 3.5 64 63.9 63.6 
+15.5 40 100 125.6 128303 969100 48.8 361 1.3 126.4 126 125.6 
+25.5 60 100 195.1 118323 549629 76.2 361 1 195.9 195.3 195.1 
+35.5 80 100 269.7 95024 377698 91.3 361 0.89 270.7 270.1 269.7 
+45.5 100 100 324.8 49923 280903 64.5 361 0.81 325.8 325.3 324.8 
+------------------ ave & max --------------------
+25.5 60 100 195.76 132182 935652 64.3 361 1.5 196.56 196.12 195.76 
+50 100 100 376 1422881 2727345 354 362 4.7 377 376 376 
+
+
+C05 Wed Aug 31 07:41:08 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 535.9 355595 2240607 56.8 361 11 538.4 537.4 535.9 
+15.5 40 100 1076.4 9544 909637 3.61 361 11 1076.7 1076.4 1076.4 
+25.5 60 100 1647.3 30642 538368 19.6 361 8.4 1648.4 1647.6 1647.3 
+35.5 80 100 2287.8 59174 365301 57.6 361 9.1 2289.2 2288.7 2287.8 
+45.5 100 100 2650 84730 281169 108 361 4.5 2654.4 2651.1 2650 
+------------------ ave & max --------------------
+25.5 60 100 1639.48 107937 867017 49 361 8.8 1641.42 1640.24 1639.48 
+50 100 100 3150 1321139 2971122 360 362 26 3150 3150 3150 
+
+
+C06 Wed Aug 31 12:42:07 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 300 168.9 382875 2449909 54.4 361 5.7 170.1 169.3 168.9 
+15.5 40 300 331.5 250710 933574 98.2 361 2.4 333.1 332.5 331.5 
+25.5 60 300 515.6 230357 532241 157 361 2 518.2 517 515.6 
+35.5 80 300 712.6 164238 365056 164 361 1.8 715.6 714.1 712.6 
+45.5 100 300 858.5 118220 271414 157 361 1.7 861.1 860.2 858.5 
+------------------ ave & max --------------------
+25.5 60 300 517.42 229280 910439 126 361 2.7 519.62 518.62 517.42 
+50 100 300 992 1654325 2740676 343 362 8.3 992 992 992 
+
+
+C07 Wed Aug 31 17:43:03 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 501.9 2 1805708 0 361 18 501.9 501.9 501.9 
+15.5 40 100 1059.9 22 767313 0.01 361 16 1059.9 1059.9 1059.9 
+25.5 60 100 1529.6 16979 454305 13.4 361 14 1530 1530 1529.6 
+35.5 80 100 2222.1 154 304935 0.174 361 15 2222.1 2222.1 2222.1 
+45.5 100 100 2644 241 223553 0.374 361 13 2644 2644 2644 
+------------------ ave & max --------------------
+25.5 60 100 1591.5 3480 711163 2.8 361 15 1591.58 1591.58 1591.5 
+50 100 100 3024 169454 2146800 134 362 29 3024 3024 3024 
+
+
+C08 Wed Aug 31 22:43:58 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 459.1 340975 2329859 55.1 361 5.6 463.1 461.1 459.1 
+15.5 40 100 954.3 380633 922265 149 361 3.5 957.2 956.4 954.3 
+25.5 60 100 1397.3 227629 545873 150 361 2.6 1406 1401.6 1397.3 
+35.5 80 100 1957.8 167428 375091 161 361 2.5 1968.8 1962.6 1957.8 
+45.5 100 100 2415.9 160448 276976 209 361 2.2 2427.7 2423.1 2415.9 
+------------------ ave & max --------------------
+25.5 60 100 1436.88 255423 890013 145 361 3.3 1444.56 1440.96 1436.88 
+50 100 100 2803 888611 2593988 362 362 10 2820 2805 2803 
+
+
+C09 Thu Sep  1 03:44:53 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 1106.8 1 1855969 0 361 24 1106.8 1106.8 1106.8 
+15.5 40 100 2190.6 1540 730197 0.721 361 24 2190.6 2190.6 2190.6 
+25.5 60 100 3410.4 1 402054 0.001 361 25 3410.4 3410.4 3410.4 
+35.5 80 100 4588.1 1 259190 0.002 361 26 4588.1 4588.1 4588.1 
+45.5 100 100 5434.9 2 195175 0.005 361 22 5434.9 5434.9 5434.9 
+------------------ ave & max --------------------
+25.5 60 100 3346.16 309 688517 0.146 361 24 3346.16 3346.16 3346.16 
+50 100 100 5858 15392 2392880 7.2 362 35 5858 5858 5858 
+
+
+C10 Thu Sep  1 08:45:44 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 350.9 414660 2408307 64.6 361 6.8 351.5 351.5 350.9 
+15.5 40 100 665 247073 973791 91.9 361 5 667.6 666.6 665 
+25.5 60 100 934.6 186296 573793 116 361 3.6 938.8 935.6 934.6 
+35.5 80 100 1209.1 141775 393860 131 361 3 1214.2 1210.4 1209.1 
+45.5 100 100 1510.5 124240 294865 153 361 2.6 1516.2 1513.4 1510.5 
+------------------ ave & max --------------------
+25.5 60 100 934.02 222809 928923 111 361 4.2 937.66 935.5 934.02 
+50 100 100 1754 2202658 2594883 355 362 10 1758 1758 1754 
+
+
+C01 Tue Sep 13 16:17:58 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 10 61.4 1618 2831096 0.175 325 5.1 61.4 61.4 61.4 
+15.5 40 10 121.8 36838 1194780 10.2 328 4.2 122 121.9 121.8 
+25.5 60 10 188.5 5530 728937 2.48 328 4.7 188.6 188.5 188.5 
+35.5 80 10 262.6 2734 548519 1.75 361 5.7 262.7 262.6 262.6 
+45.5 100 10 304.8 5118 336802 4.43 289 1.4 304.9 304.8 304.8 
+------------------ ave & max --------------------
+25.5 60 10 187.82 10367 1128027 3.81 326 4.2 187.92 187.84 187.82 
+50 100 10 355 242976 3354376 67.9 362 16 355 355 355 
+
+
+C02 Tue Sep 13 20:01:45 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 30 19.8 557 419982 0.054 36 0.58 19.8 19.8 19.8 
+15.5 40 30 39.1 484 484 0.115 0 0 39.1 39.1 39.1 
+25.5 60 30 60.1 3432 3432 1.41 1 0 60.2 60.1 60.1 
+35.5 80 30 83.2 75 75 0.044 0 0 83.2 83.2 83.2 
+45.5 100 30 100.5 63 63 0.048 0 0 100.5 100.5 100.5 
+------------------ ave & max --------------------
+25.5 60 30 60.54 922 84807 0.334 8 0.12 60.56 60.54 60.54 
+50 100 30 114 32767 4194249 13.4 362 5.8 114 114 114 
+
+
+C03 Tue Sep 13 21:02:14 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 40 163.8 744355 3256293 81.2 361 7 164.7 164.5 163.8 
+15.5 40 40 333.8 48746 1345735 13.4 361 7.8 334.3 333.8 333.8 
+25.5 60 40 506.2 141984 790292 65.4 361 4.8 507.3 506.7 506.2 
+35.5 80 40 709.5 29644 546165 20 361 6.3 710.2 709.7 709.5 
+45.5 100 40 839 46427 405420 41.2 361 4.1 839.9 839.6 839 
+------------------ ave & max --------------------
+25.5 60 40 510.46 202231 1268781 44.2 361 6 511.28 510.86 510.46 
+50 100 40 1040 2758787 3617607 328 362 24 1040 1040 1040 
+
+
+C04 Wed Sep 14 02:03:05 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 63.6 269335 3533595 28.4 361 3.5 64 63.8 63.6 
+15.5 40 100 125.6 128303 1368687 34.5 361 1.3 126.4 125.7 125.6 
+25.5 60 100 195 175221 779105 79.5 361 0.97 195.7 195.3 195 
+35.5 80 100 269.6 146224 534101 99.7 361 0.85 270.6 270.1 269.6 
+45.5 100 100 324.7 76925 394460 71.1 361 0.78 325.8 325 324.7 
+------------------ ave & max --------------------
+25.5 60 100 195.7 159202 1321990 62.6 361 1.5 196.5 195.98 195.7 
+50 100 100 376 1422881 3834963 357 362 4.7 377 376 376 
+
+
+C05 Wed Sep 14 07:03:52 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 535.9 355595 3180815 40 361 11 538.3 537.2 535.9 
+15.5 40 100 1076.2 115278 1298177 30.7 361 11 1076.6 1076.4 1076.2 
+25.5 60 100 1647.1 66686 768892 29.8 361 8.4 1648.3 1647.6 1647.1 
+35.5 80 100 2287.8 59174 518434 40.6 361 9.1 2289.2 2288.7 2287.8 
+45.5 100 100 2649.8 120278 399532 108 361 4.5 2654.4 2651 2649.8 
+------------------ ave & max --------------------
+25.5 60 100 1639.36 143402 1233170 49.9 361 8.8 1641.36 1640.18 1639.36 
+50 100 100 3150 1321139 4223347 347 362 26 3150 3150 3150 
+
+
+C06 Wed Sep 14 12:04:37 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 300 168.5 838617 3433138 89.4 361 5.4 169.6 169.3 168.5 
+15.5 40 300 331.3 455867 1313064 128 361 2.4 333 332.4 331.3 
+25.5 60 300 515.2 379049 749876 182 361 1.9 517.8 516.8 515.2 
+35.5 80 300 712.6 164238 515105 116 361 1.8 715.2 714 712.6 
+45.5 100 300 858.1 164092 382724 155 361 1.6 861 859.5 858.1 
+------------------ ave & max --------------------
+25.5 60 300 517.14 400373 1278781 134 361 2.6 519.32 518.4 517.14 
+50 100 300 992 2899312 3842988 359 362 7.5 992 992 992 
+
+
+C07 Wed Sep 14 17:05:22 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 501.9 2 2600381 0 361 18 501.9 501.9 501.9 
+15.5 40 100 1059.9 22 1101848 0.009 361 16 1059.9 1059.9 1059.9 
+25.5 60 100 1529.6 16979 654440 9.36 361 14 1530 1530 1529.6 
+35.5 80 100 2222.1 154 436872 0.121 361 15 2222.1 2222.1 2222.1 
+45.5 100 100 2644 241 319758 0.268 361 13 2644 2644 2644 
+------------------ ave & max --------------------
+25.5 60 100 1591.5 3480 1022660 1.95 361 15 1591.58 1591.58 1591.5 
+50 100 100 3024 169454 3092870 93.4 362 29 3024 3024 3024 
+
+
+C08 Wed Sep 14 22:06:11 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 459.1 340975 3347923 38.1 361 5.6 462.6 460 459.1 
+15.5 40 100 954.2 447546 1319808 123 361 3.5 956.5 955.8 954.2 
+25.5 60 100 1397.3 227629 777178 105 361 2.6 1404.9 1400.3 1397.3 
+35.5 80 100 1957.5 223373 532435 151 361 2.5 1967.8 1962.6 1957.5 
+45.5 100 100 2414.9 247475 394692 226 361 2.2 2427.3 2422.2 2414.9 
+------------------ ave & max --------------------
+25.5 60 100 1436.6 297399 1274407 129 361 3.3 1443.82 1440.18 1436.6 
+50 100 100 2803 1006891 3723277 323 362 10 2820 2805 2803 
+
+
+C09 Thu Sep 15 03:07:01 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 1106.8 1 2677253 0.001 361 24 1106.8 1106.8 1106.8 
+15.5 40 100 2190.6 1540 1048856 0.5 361 24 2190.6 2190.6 2190.6 
+25.5 60 100 3410.4 1 578864 0.001 361 25 3410.4 3410.4 3410.4 
+35.5 80 100 4588.1 1 371843 0.003 361 26 4588.1 4588.1 4588.1 
+45.5 100 100 5434.9 2 278350 0.002 361 22 5434.9 5434.9 5434.9 
+------------------ ave & max --------------------
+25.5 60 100 3346.16 309 991033 0.101 361 24 3346.16 3346.16 3346.16 
+50 100 100 5858 15392 3440383 4.99 362 35 5858 5858 5858 
+
+
+C10 Thu Sep 15 08:07:49 2011
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 100 350.6 967276 3452217 101 361 6.7 351.5 351.5 350.6 
+15.5 40 100 664.8 361012 1388572 94.4 361 4.9 667.6 666.3 664.8 
+25.5 60 100 934.5 262327 818869 115 361 3.6 938.5 935.6 934.5 
+35.5 80 100 1208.9 206678 561454 134 361 3 1214.2 1210.3 1208.9 
+45.5 100 100 1510.2 202329 419225 174 361 2.6 1515.9 1513.2 1510.2 
+------------------ ave & max --------------------
+25.5 60 100 933.8 399924 1328068 124 361 4.2 937.54 935.38 933.8 
+50 100 100 1754 3684899 3716269 358 362 10 1758 1758 1754 
+
+
+C02 Thu Feb  9 16:23:54 2012
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 nPType 1 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [Sub_RCPSP] nScaleW 0 vsp -0.8 0.5  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  [SVC_RCPSP] MaxTime 360 MaxIter 1e+100 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 30 19.7 138 138 0.008 0 0 19.7 19.7 19.7 
+15.5 40 30 39.1 13 13 0.004 0 0 39.1 39.1 39.1 
+25.5 60 30 60.1 36 36 0.014 0 0 60.1 60.1 60.1 
+35.5 80 30 83.2 9 9 0.002 0 0 83.2 83.2 83.2 
+45.5 100 30 100.5 8 8 0.008 0 0 100.5 100.5 100.5 
+------------------ ave & max --------------------
+25.5 60 30 60.52 41 41 0.0072 0 0 60.52 60.52 60.52 
+50 100 30 114 734 734 0.06 0 0 114 114 114 
+
+
+C03 Thu Feb  9 17:25:42 2012
+
+[BL] fImproved 1 pInvertShove 0 0.03  [Solver] instFirst 1 instLast 1000000 statPeriod 10 fWriteSolution 0 nPType 1 [Sub_2DSPP] nScaleW 0 vsp -0.8 0.5  pTower 0 0  pChangeP_TIP 0.01 pInvertHole 0 0.05  pPermutateHole 0.8 1  pBubbleHole 0.6 0.9  [Sub_RCPSP] nScaleW 0 vsp -0.8 0.5  [SVC_2DSPP] MaxTime 360 MaxIter 1e+100 NIterRandom 0 NIterSVC 1 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  [SVC_RCPSP] MaxTime 360 MaxIter 1e+100 ValReset 1000 19000  blockw_pow 2.1 0.1  p_bwpnew 0.1 BaseOrdering 2 1 1 1  p_choose 0.6 0.6  
+inst  m   W   SVC: UB  it_best/all tm_best/all gap%  TmRow: 10 60 inf ave_best^
+5.5 20 40 163.6 349108 3227020 37.7 361 6.9 164.3 163.9 163.6 

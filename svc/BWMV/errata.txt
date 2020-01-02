@@ -1,0 +1,83 @@
+0x77c64e 0: params.cfg: param "fReorderAfterEveryBlock" in section "SVC_2DSPP" not found!
+0x7899b1 0: params.cfg: param "Filling_FFD_KP" in section "SVC_2DSPP" not found!
+0x7899b1 0: params.cfg: param "q2D" in section "SVC_2DSPP" not found!
+0x7899b1 0: params.cfg: param "correctionScheme" in section "SVC_2DSPP" not found!
+0x7899b1 0: params.cfg: param "corr2D_accu_ave" in section "SVC_2DSPP" not found!
+0x7899b1 0: params.cfg: param "corr2D_fAveBlockwise" in section "SVC_2DSPP" not found!
+0x7899b1 0: params.cfg: param "corr2D_2D" in section "SVC_2DSPP" not found!
+0x7899b1 0: params.cfg: param "corr2D_fLocalAfter" in section "SVC_2DSPP" not found!
+0x7899b1 0: params.cfg: param "pa" in section "SVC_2DSPP" not found!
+0x7899b1 0: params.cfg: param "pb" in section "SVC_2DSPP" not found!
+0x7899b1 0: params.cfg: param "ps" in section "SVC_2DSPP" not found!
+0x7899b1 0: params.cfg: param "w_pow" in section "SVC_2DSPP" not found!
+0xffffd60a 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd60e 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd612 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd616 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd61a 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd61e 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd622 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd626 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd62a 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd62e 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd60a 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd60e 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd612 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd616 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd61a 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd61e 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd622 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd626 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd62a 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd62e 1: Error. d_sub[i] < 1e90 and d_sub[i] > 0 :src/2dspp_svc.cpp :141:Oct 23 2005
+0xffffd60a 1: d[13] = nan pm, ps = 2.1 0.1:
+0xffffd60e 1: d[0] = nan pm, ps = 2.1 0.1:
+0xffffd612 1: d[0] = nan pm, ps = 2.1 0.1:
+0xffffd616 1: d[8] = nan pm, ps = 2.1 0.1:
+0xffffd61a 1: d[13] = nan pm, ps = 2.1 0.1:
+0xffffd61e 1: d[8] = nan pm, ps = 2.1 0.1:
+0xffffd622 1: d[18] = nan pm, ps = 2.1 0.1:
+0xffffd626 1: d[16] = nan pm, ps = 2.1 0.1:
+0xffffd62a 1: d[19] = nan pm, ps = 2.1 0.1:
+0xffffd62e 1: d[12] = nan pm, ps = 2.1 0.1:
+0xffffd60a 1: d[13] = nan pm, ps = 2.1 0.1 p=nan wratio=0:
+0xffffd60e 1: d[0] = nan pm, ps = 2.1 0.1 p=nan wratio=0:
+0xffffd612 1: d[0] = nan pm, ps = 2.1 0.1 p=nan wratio=0:
+0xffffd616 1: d[8] = nan pm, ps = 2.1 0.1 p=nan wratio=0:
+0xffffd61a 1: d[13] = nan pm, ps = 2.1 0.1 p=nan wratio=0:
+0xffffd61e 1: d[8] = nan pm, ps = 2.1 0.1 p=nan wratio=0:
+0xffffd622 1: d[18] = nan pm, ps = 2.1 0.1 p=nan wratio=0:
+0xffffd626 1: d[16] = nan pm, ps = 2.1 0.1 p=nan wratio=0:
+0xffffd62a 1: d[19] = nan pm, ps = 2.1 0.1 p=nan wratio=0.010101:
+0xffffd62e 1: d[12] = nan pm, ps = 2.1 0.1 p=nan wratio=0:
+0xffffd60a 1: d[13] = nan pm, ps = 2.1 0.1 p=521.08 wratio=0:
+0xffffd60e 1: d[0] = nan pm, ps = 2.1 0.1 p=563.18 wratio=0:
+0xffffd612 1: d[0] = nan pm, ps = 2.1 0.1 p=96023.6 wratio=0:
+0xffffd616 1: d[8] = inf pm, ps = 2.1 0.1 p=3705.34 wratio=0.0416667:
+0xffffd61a 1: d[13] = inf pm, ps = 2.1 0.1 p=27016.4 wratio=0.111111:
+0xffffd61e 1: d[8] = inf pm, ps = 2.1 0.1 p=320.503 wratio=0.00334448:
+0xffffd622 1: d[18] = inf pm, ps = 2.1 0.1 p=5.89121e+06 wratio=0.333333:
+0xffffd626 1: d[16] = nan pm, ps = 2.1 0.1 p=4.00917e+06 wratio=0:
+0xffffd62a 1: d[15] = inf pm, ps = 2.1 0.1 p=4.58849e+06 wratio=0.123596:
+0xffffd62e 1: d[12] = inf pm, ps = 2.1 0.1 p=171.043 wratio=0.0869565:
+0xffffd60a 1: d[13] = nan pm, ps = 2.1 0.1 p=521.08 wratio=0:
+0xffffd60e 1: d[0] = nan pm, ps = 2.1 0.1 p=563.18 wratio=0:
+0xffffd612 1: d[0] = nan pm, ps = 2.1 0.1 p=96023.6 wratio=0:
+0xffffd616 1: d[8] = inf pm, ps = 2.1 0.1 p=3705.34 wratio=0.0416667:
+0xffffd61a 1: d[13] = inf pm, ps = 2.1 0.1 p=27016.4 wratio=0.111111:
+0xffffd61e 1: d[8] = inf pm, ps = 2.1 0.1 p=320.503 wratio=0.00334448:
+0xffffd622 1: d[18] = inf pm, ps = 2.1 0.1 p=5.89121e+06 wratio=0.333333:
+0xffffd626 1: d[16] = nan pm, ps = 2.1 0.1 p=4.00917e+06 wratio=0:
+0xffffd62a 1: d[15] = inf pm, ps = 2.1 0.1 p=4.58849e+06 wratio=0.123596:
+0xffffd62e 1: d[12] = inf pm, ps = 2.1 0.1 p=171.043 wratio=0.0869565:
+0xffffd60a 1: d[13] = nan pm, ps = 2.1 0.1 p=521.08 wratio=0:
+0xffffd60e 1: d[0] = nan pm, ps = 2.1 0.1 p=563.18 wratio=0:
+0xffffd612 1: d[0] = nan pm, ps = 2.1 0.1 p=96023.6 wratio=0:
+0xffffd616 1: d[8] = inf pm, ps = 2.1 0.1 p=3705.34 wratio=0.0416667:
+0xffffd61a 1: d[13] = inf pm, ps = 2.1 0.1 p=27016.4 wratio=0.111111:
+0xffffd61e 1: d[8] = inf pm, ps = 2.1 0.1 p=320.503 wratio=0.00334448:
+0xffffd622 1: d[18] = inf pm, ps = 2.1 0.1 p=5.89121e+06 wratio=0.333333:
+0xffffd626 1: d[16] = nan pm, ps = 2.1 0.1 p=4.00917e+06 wratio=0:
+0xffffd62a 1: d[15] = inf pm, ps = 2.1 0.1 p=4.58849e+06 wratio=0.123596:
+0xffffd62e 1: d[12] = inf pm, ps = 2.1 0.1 p=171.043 wratio=0.0869565:
+0xbff0a4b1 4: Error. --itt_last != svc.tmrow.end() :src/solver.cpp :172:Oct 27 2005

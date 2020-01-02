@@ -1,0 +1,1608 @@
+Tried aggregator 1 time.
+LP Presolve eliminated 100 rows and 100 columns.
+All rows and columns eliminated.
+Presolve time =    0.00 sec.
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =          3685.000000
+Iteration:    62    Objective     =          1606.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =          1440.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           583.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           267.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           258.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           253.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           249.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           234.500000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           229.500000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           227.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           225.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           222.600000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           217.333333
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           206.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           201.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           199.166667
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           196.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           191.666667
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           191.666667
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           191.172414
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           189.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           188.769231
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           188.600000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           187.052632
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           186.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           185.578947
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           183.714286
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           182.038889
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           177.611111
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           176.310345
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           175.700000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           174.634921
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           173.142857
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           172.904762
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           171.333333
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           170.885714
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           170.860465
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           170.023729
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           168.263158
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           166.454545
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           164.927273
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           164.333333
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           164.200000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           163.843094
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           162.933610
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           162.331126
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           160.961039
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           160.065903
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           159.255319
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           158.002562
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           156.716418
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           155.037751
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           153.666667
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           152.984894
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           152.058023
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           150.598179
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           149.495914
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           147.100000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           144.864111
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           144.050732
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           143.378873
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           142.558230
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           141.649526
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           141.189035
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           140.473401
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           140.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           139.458248
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           138.489870
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           136.997519
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           136.089845
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           135.767524
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           134.999298
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           134.517863
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           134.277961
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           133.625148
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           133.311083
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           133.069965
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           132.611580
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           132.284648
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           132.018582
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           131.587011
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           131.201404
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           130.818936
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           130.016218
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           129.232183
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           128.740495
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           128.398313
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           127.869176
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           127.430370
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           127.011527
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           126.775335
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           126.474215
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           126.142604
+Iteration:    62    Objective     =           125.590929
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           125.573909
+Iteration:    62    Objective     =           124.142787
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           124.063087
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           123.168940
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           122.772902
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           122.574632
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           122.389582
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           122.116868
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           121.871890
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           121.624232
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           121.212878
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           120.918151
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           120.544560
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           120.023742
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           119.534831
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           118.967733
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           118.035301
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           118.000000
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           117.981984
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           117.702479
+Iteration:    62    Objective     =           116.091244
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           116.025187
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           115.818565
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           115.530071
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           115.198012
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           114.770244
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           114.475914
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           114.384132
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           114.111086
+Iteration:    62    Objective     =           113.623307
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           113.600647
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           113.357587
+Iteration:    62    Objective     =           112.997632
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           112.997632
+Iteration:    62    Objective     =           112.590500
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           112.543171
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           112.116939
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           111.721382
+Iteration:    62    Objective     =           111.421875
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           111.390134
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           111.174475
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           110.881449
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           110.508521
+Iteration:    62    Objective     =           110.296978
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           110.294278
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           110.180150
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           109.999953
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           109.999143
+Iteration:    62    Objective     =           109.818560
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           109.813481
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           109.685829
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           109.593213
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           109.520960
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           109.408978
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           109.282300
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           109.175269
+Iteration:    68    Objective     =           108.953846
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           108.929369
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           108.809111
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           108.696153
+Iteration:    62    Objective     =           108.442582
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           108.437579
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           108.207570
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           108.030781
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           107.786295
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           107.633023
+Iteration:    62    Objective     =           107.393585
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           107.358882
+Iteration:    66    Objective     =           106.871087
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           106.860927
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           106.594083
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           106.403919
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           106.106473
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           105.847959
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           105.575140
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           105.456389
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           105.318490
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           105.110482
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           105.006015
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           104.853757
+Iteration:    76    Objective     =           104.549299
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           104.529632
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           104.148001
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           103.783455
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           103.566783
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           103.391387
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           103.199214
+Iteration:    69    Objective     =           102.941380
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           102.928313
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           102.752005
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           102.626606
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           102.440586
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           102.321739
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           102.248693
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           102.140868
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.997442
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.851234
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.809211
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.756380
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.729554
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.681634
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.643353
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.623638
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.606302
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.579351
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.561304
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.546130
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.509224
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.486154
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.470396
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.456888
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.443115
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.429992
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.410862
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.400101
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.392985
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.381797
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.370757
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.356424
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.353711
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.334267
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.308889
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.277113
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.236096
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.196493
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.151031
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.118787
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.093597
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.083224
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           101.052222
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.999897
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.940497
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.920032
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.894233
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.880377
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.856629
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.828673
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.809768
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.789327
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.780934
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.766493
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.749416
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.735142
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.722210
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.712977
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.664483
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.644890
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.605501
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.554692
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.482417
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.382585
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.331416
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.314227
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.279803
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.253860
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.226384
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.212054
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.190606
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.171700
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.167567
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.154673
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.145584
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.137663
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.134384
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.122770
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.117509
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.115305
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.109098
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.099117
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.087879
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.070865
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.065756
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.059801
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.041733
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.029201
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.023857
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.018118
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.010873
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =           100.007457
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.999578
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.993938
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.974105
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.969594
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.965733
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.952352
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.940498
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.935860
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.923820
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.914066
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.904380
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.892814
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.890418
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.885561
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.877852
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.867256
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.861853
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.851972
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.835668
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.825666
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.813904
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.805081
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.796354
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.788517
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.781164
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.770949
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.761811
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.757921
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.752414
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.750671
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.748235
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.742308
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.736910
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.730722
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.720846
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.711281
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.702756
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.690587
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.681943
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.675972
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.665114
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.657623
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.649027
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.643933
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.641525
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.639198
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.635384
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.629595
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.626928
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.623329
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.618259
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.611707
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.605461
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.599218
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.595755
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.593316
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.587977
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.583444
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.580322
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.577012
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.574785
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.573312
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.569932
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.563214
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.560629
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.556506
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.554346
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.552523
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.550907
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.546696
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.544980
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.541921
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.538658
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.536553
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.534897
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.532914
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.530031
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.528859
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.526879
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.524618
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.523064
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.521639
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.519914
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.515661
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.511537
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.507034
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.503419
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.499072
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.497471
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.495281
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.486861
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.480582
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.471727
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.468498
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.464887
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.462497
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.460689
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.459030
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.457419
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.456350
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.455624
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.453228
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.451891
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.450527
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.449585
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.448519
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.448024
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.447654
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.447506
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.447377
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.447213
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.446935
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.446789
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.446097
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.445481
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.445259
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.445019
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.444833
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.444646
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.444600
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.444527
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.444426
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.444336
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.444301
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.444116
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.443697
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.443473
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.443247
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.442732
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.442410
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.442080
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.441553
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.441260
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.441028
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.440692
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.440616
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.440422
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.440351
+Using devex.
+
+Iteration log . . .
+Iteration:     1    Objective     =            99.440101

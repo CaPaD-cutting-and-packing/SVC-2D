@@ -1,0 +1,132 @@
+SYSTEM     = x86-64_RHEL3.0_3.2
+LIBFORMAT  = static_pic
+
+#------------------------------------------------------------
+#
+# When you adapt this makefile to compile your CPLEX programs
+# please copy this makefile and set CPLEXDIR and CONCERTDIR to
+# the directories where CPLEX and CONCERT are installed.
+#
+#------------------------------------------------------------
+
+CPLEXDIR      = /home/nm2/belov/Programs/cplex90/cplex90
+CONCERTDIR    = /home/nm2/belov/Programs/cplex90/concert20
+# ---------------------------------------------------------------------
+# Compiler selection
+# ---------------------------------------------------------------------
+
+CCC = g++
+CC  = gcc
+JAVAC = javac
+
+# ---------------------------------------------------------------------
+# Compiler options
+# ---------------------------------------------------------------------
+
+CCOPT = -Wall -g3 -fexceptions -DDBG_ON -DIL_STD -DILOSTRICTPOD -mtune=opteron -m64 
+
+CCOOPT = -Wall -O3 -fexceptions -DNDEBUG -DIL_STD -DILOSTRICTPOD -mtune=opteron -m64
+COPT  = -Wall -g3 -DDBG_ON -DIL_STD -DILOSTRICTPOD -mtune=opteron -m64 #-fPIC
+COOPT  = -Wall -O3 -DNDEBUG -DIL_STD -DILOSTRICTPOD -mtune=opteron -m64 #-fPIC
+JOPT  = -classpath ../../../lib/cplex.jar -O
+
+# ---------------------------------------------------------------------
+# Link options and libraries
+# ---------------------------------------------------------------------
+
+CPLEXBINDIR   = $(CPLEXDIR)/bin/$(BINDIST)
+CPLEXJARDIR   = $(CPLEXDIR)/lib/cplex.jar
+CPLEXLIBDIR   = $(CPLEXDIR)/lib/$(SYSTEM)/$(LIBFORMAT)
+CONCERTLIBDIR = $(CONCERTDIR)/lib/$(SYSTEM)/$(LIBFORMAT)
+
+CCLNFLAGS = -static
+CCLNFLAGS_CPX = -static -L$(CPLEXLIBDIR) -lilocplex -lcplex -L$(CONCERTLIBDIR) -lconcert -lm -lpthread
+CLNFLAGS  = -static
+CLNFLAGS_CPX = -static -L$(CPLEXLIBDIR) -lcplex -lm -lpthread
+JAVA      = java -d64 -Djava.library.path=$(CPLEXDIR)/bin/x86-64_RHEL3.0_3.2 -classpath $(CPLEXJARDIR):
+
+
+all: svc2DBG
+
+
+CONCERTINCDIR = $(CONCERTDIR)/include
+CPLEXINCDIR   = $(CPLEXDIR)/include
+
+EXDIR         = .
+EXSRC         = $(EXDIR)/src
+EXINC         = $(EXDIR)/src
+EXDATA        = $(EXDIR)/data
+
+CFLAGS  = $(COPT)  -I$(CPLEXINCDIR) -I$(EXINC)
+COFLAGS  = $(COOPT)  -I$(CPLEXINCDIR) -I$(EXINC)
+CCFLAGS = $(CCOPT) -I$(CPLEXINCDIR) -I$(CONCERTINCDIR) -I$(EXINC)
+CCOFLAGS = $(CCOOPT) -I$(CPLEXINCDIR) -I$(CONCERTINCDIR) -I$(EXINC)
+JCFLAGS = $(JOPT)
+
+clean :
+	/bin/rm -rf *.o *~ *.class
+	/bin/rm -rf $(C_EX) $(CPP_EX)
+	/bin/rm -rf *.mps *.ord *.sos *.lp *.sav *.net *.msg *.log
+
+# -----
+
+SOURCES_NOLP = 2dspp_svc.cpp 2dspp_sub.cpp bottomleft.cpp mydebug.cpp mytools.cpp myparam.cpp 2dspp.cpp timer.cpp combo.c
+
+SOURCES = $(SOURCES_NOLP) solver.cpp 1dlp.cpp
+
+CPPOBJECTS = $(SOURCES:.cpp=DBG.o)
+OBJECTS = $(CPPOBJECTS:.c=DBG.o)
+CPPOOBJECTS = $(SOURCES:.cpp=O3.o)
+OOBJECTS = $(CPPOOBJECTS:.c=O3.o)
+CPPOOBJECTS_NOLP = $(SOURCES_NOLP:.cpp=O3.o)
+OOBJECTS_NOLP = $(CPPOOBJECTS_NOLP:.c=O3.o)
+CPPOBJECTS_NOLP = $(SOURCES_NOLP:.cpp=DBG.o)
+OBJECTS_NOLP = $(CPPOBJECTS_NOLP:.c=DBG.o)
+
+svc2DBG: $(OBJECTS)
+	$(CCC) $(CCFLAGS) -o svc2DBG $(OBJECTS) $(CCLNFLAGS)
+
+svc2: $(OOBJECTS)
+	$(CCC) $(CCOFLAGS) -o svc2 $(OOBJECTS) $(CCLNFLAGS)
+
+svc21: $(OOBJECTS) # just a copy
+	$(CCC) $(CCOFLAGS) -o svc21 $(OOBJECTS) $(CCLNFLAGS)
+
+svc22: $(OOBJECTS) # just a copy
+	$(CCC) $(CCOFLAGS) -o svc22 $(OOBJECTS) $(CCLNFLAGS)
+
+svc2lp: $(OOBJECTS_NOLP) 1dlp_cpxO3.o solver_lpO3.o
+	$(CCC) $(CCOFLAGS_CPX) -o svc2lp $(OOBJECTS_NOLP) 1dlp_cpxO3.o solver_lpO3.o $(CCLNFLAGS_CPX)
+
+svc2bea: $(OOBJECTS_NOLP) beasleyO3.o solver_beaO3.o rasterO3.o 1dlpO3.o
+	$(CCC) $(CCOFLAGS_CPX) -o svc2bea $(OOBJECTS_NOLP) beasleyO3.o solver_beaO3.o rasterO3.o 1dlpO3.o $(CCLNFLAGS_CPX)
+
+svc2beaDBG: $(OBJECTS_NOLP) beasleyDBG.o solver_beaDBG.o rasterDBG.o 1dlpDBG.o
+	$(CCC) $(CCFLAGS_CPX) -o svc2beaDBG $(OBJECTS_NOLP) beasleyDBG.o solver_beaDBG.o rasterDBG.o 1dlpDBG.o $(CCLNFLAGS_CPX)
+
+%DBG.o: $(EXSRC)/%.cpp
+	$(CCC) -c $(CCFLAGS)  $< -o $@
+
+%O3.o: $(EXSRC)/%.cpp
+	$(CCC) -c $(CCOFLAGS)  $< -o $@
+
+%DBG.o: $(EXSRC)/%.c
+	$(CC) -c $(CFLAGS)  $< -o $@
+
+%O3.o: $(EXSRC)/%.c
+	$(CC) -c $(COFLAGS)  $< -o $@
+
+1dlp_cpxO3.o: $(EXSRC)/1dlp.cpp
+	$(CCC) -c $(CCOFLAGS) -D__USE_CPLEX  $< -o $@
+
+solver_lpO3.o: $(EXSRC)/solver.cpp
+	$(CCC) -c $(CCOFLAGS) -D__LPBOUNDS  $< -o $@
+
+solver_beaO3.o: $(EXSRC)/solver.cpp
+	$(CCC) -c $(CCOFLAGS) -D__BEASLEY  $< -o $@
+
+solver_beaDBG.o: $(EXSRC)/solver.cpp
+	$(CCC) -c $(CCFLAGS) -D__BEASLEY  $< -o $@
+
+gen: src/cspgen.cpp
+	$(CCC) $(CCFLAGS) -o gen src/cspgen.cpp
